@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Quiz chia động từ tiếng Nhật N5 - Offline">
+  <title>Quiz Động Từ N5</title>
+  
+  <!-- PWA Setup -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0f172a">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ========== START SCREEN ========== -->
+  <div id="start-screen" class="screen active">
+    <div class="card start-card">
+      <h1 id="app-title">動詞 N5 Quiz</h1>
+      <p class="subtitle">Luyện tập chia động từ tiếng Nhật N5</p>
+
+      <div class="section">
+        <h2 class="section-title">Dạng câu hỏi</h2>
+        <label class="checkbox-item" for="mode-jp-vn">
+          <input type="checkbox" id="mode-jp-vn" value="jp-vn" checked>
+          <span class="checkbox-mark"></span>
+          <span>🇯🇵 Nhật → Việt</span>
+        </label>
+        <label class="checkbox-item" for="mode-vn-jp">
+          <input type="checkbox" id="mode-vn-jp" value="vn-jp">
+          <span class="checkbox-mark"></span>
+          <span>🇻🇳 Việt → Nhật</span>
+        </label>
+        <label class="checkbox-item" for="mode-listen">
+          <input type="checkbox" id="mode-listen" value="listen">
+          <span class="checkbox-mark"></span>
+          <span>🔊 Nghe → Việt</span>
+        </label>
+        <label class="checkbox-item" for="mode-conjugation">
+          <input type="checkbox" id="mode-conjugation" value="conjugation">
+          <span class="checkbox-mark"></span>
+          <span>📝 Chia động từ</span>
+        </label>
+        <label class="checkbox-item" for="mode-ba">
+          <input type="checkbox" id="mode-ba" value="ba">
+          <span class="checkbox-mark"></span>
+          <span>📝 Chia thể ば</span>
+        </label>
+        <label class="checkbox-item" for="mode-ta">
+          <input type="checkbox" id="mode-ta" value="ta">
+          <span class="checkbox-mark"></span>
+          <span>📝 Chia thể た</span>
+        </label>
+      </div>
+
+      <div class="section">
+        <h2 class="section-title">Số câu hỏi</h2>
+        <label class="radio-item" for="count-10">
+          <input type="radio" name="count" id="count-10" value="10" checked>
+          <span class="radio-mark"></span>
+          <span>10 câu</span>
+        </label>
+        <label class="radio-item" for="count-all">
+          <input type="radio" name="count" id="count-all" value="all">
+          <span class="radio-mark"></span>
+          <span>Tất cả (97 câu)</span>
+        </label>
+      </div>
+
+      <button id="btn-start" class="btn-primary" onclick="startQuiz()">Bắt đầu</button>
+    </div>
+  </div>
+
+  <!-- ========== QUIZ SCREEN ========== -->
+  <div id="quiz-screen" class="screen">
+    <div class="card quiz-card">
+      <div class="quiz-header">
+        <span id="quiz-badge" class="badge">Nhật → Việt</span>
+        <span id="quiz-score" class="score">Điểm: 0</span>
+      </div>
+      <div class="progress-bar-container">
+        <div id="progress-bar" class="progress-bar"></div>
+      </div>
+      <p id="quiz-progress" class="progress-text">Câu 1/10</p>
+
+      <div id="question-area" class="question-area">
+        <div id="question-text" class="question-text"></div>
+        <div class="question-controls">
+          <button id="btn-furigana-quiz" class="btn-icon" onclick="toggleQuizFurigana()" title="Hiện phiên âm">
+            <span class="icon">あ</span>
+          </button>
+          <button id="btn-speak-quiz" class="btn-icon" onclick="speakWord()" title="Phát âm">
+            <span class="icon">🔊</span>
+          </button>
+        </div>
+      </div>
+
+      <div id="options-area" class="options-area"></div>
+    </div>
+
+    <!-- ========== RESULT OVERLAY ========== -->
+    <div id="result-overlay" class="overlay hidden">
+      <div class="card result-card">
+        <div id="result-status" class="result-status"></div>
+
+        <div class="result-word-info">
+          <div class="word-display">
+            <span id="result-word" class="result-word"></span>
+            <button class="btn-icon-sm" onclick="speakText(currentVerb.reading)" title="Phát âm từ">🔊</button>
+          </div>
+          <p id="result-reading" class="result-reading"></p>
+          <p id="result-meaning" class="result-meaning"></p>
+          <p id="result-group" class="result-group"></p>
+        </div>
+
+        <div class="result-section">
+          <h3>Bảng chia động từ</h3>
+          <div class="table-scroll">
+            <table id="conjugation-table" class="conj-table"></table>
+          </div>
+        </div>
+
+        <div id="potential-section" class="result-section">
+          <h3>Thể khả năng</h3>
+          <div class="table-scroll">
+            <table id="potential-table" class="conj-table"></table>
+          </div>
+        </div>
+
+        <div id="ba-ta-section" class="result-section">
+          <h3>Thể ば・た</h3>
+          <div id="ba-ta-area" class="ba-ta-area"></div>
+        </div>
+
+        <div class="result-section">
+          <h3>Câu ví dụ</h3>
+          <div id="examples-area" class="examples-area"></div>
+          <div class="toggle-buttons">
+            <button id="btn-furigana-result" class="btn-toggle" onclick="toggleResultFurigana()">Hiện phiên âm</button>
+            <button id="btn-vn-result" class="btn-toggle" onclick="toggleResultVN()">Hiện nghĩa TV</button>
+          </div>
+        </div>
+
+        <button id="btn-next" class="btn-primary" onclick="nextQuestion()">Câu tiếp theo</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ========== FINAL RESULT SCREEN ========== -->
+  <div id="final-screen" class="screen">
+    <div class="card final-card">
+      <h2>Kết quả</h2>
+      <div id="final-score" class="final-score"></div>
+      <div id="final-details" class="final-details"></div>
+      <div class="final-actions">
+        <button class="btn-primary" onclick="restartQuiz()">Làm lại</button>
+        <button class="btn-secondary" onclick="goHome()">Về trang chủ</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then(reg => console.log('Service Worker registered successfully!'))
+          .catch(err => console.error('Service Worker registration failed:', err));
+      });
+    }
+  </script>
+</body>
+</html>

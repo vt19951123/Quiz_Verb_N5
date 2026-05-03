@@ -1,0 +1,8058 @@
+[
+  {
+    "id": 1,
+    "kanji": "会う",
+    "reading": "あう",
+    "meaning": "gặp",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "あいます",
+          "plain": "あう"
+        },
+        "negative": {
+          "polite": "あいません",
+          "plain": "あわない"
+        },
+        "question": {
+          "polite": "あいますか",
+          "plain": "あう？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あいました",
+          "plain": "あった"
+        },
+        "negative": {
+          "polite": "あいませんでした",
+          "plain": "あわなかった"
+        },
+        "question": {
+          "polite": "あいましたか",
+          "plain": "あった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "あえます",
+          "plain": "あえる"
+        },
+        "negative": {
+          "polite": "あえません",
+          "plain": "あえない"
+        },
+        "question": {
+          "polite": "あえますか",
+          "plain": "あえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あえました",
+          "plain": "あえた"
+        },
+        "negative": {
+          "polite": "あえませんでした",
+          "plain": "あえなかった"
+        },
+        "question": {
+          "polite": "あえましたか",
+          "plain": "あえた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "友達に会います。",
+        "reading": "ともだちにあいます。",
+        "vietnamese": "Gặp bạn bè."
+      },
+      {
+        "japanese": "社長に会えなかった。",
+        "reading": "しゃちょうにあえなかった。",
+        "vietnamese": "Không gặp được giám đốc."
+      }
+    ],
+    "ba_form": "会えば",
+    "ba_example": "友達に会えば、嬉しいです。",
+    "ta_form": "会った",
+    "ta_example": "昨日、先生に会った。"
+  },
+  {
+    "id": 2,
+    "kanji": "遊ぶ",
+    "reading": "あそぶ",
+    "meaning": "chơi",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "あそびます",
+          "plain": "あそぶ"
+        },
+        "negative": {
+          "polite": "あそびません",
+          "plain": "あそばない"
+        },
+        "question": {
+          "polite": "あそびますか",
+          "plain": "あそぶ？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あそびました",
+          "plain": "あそんだ"
+        },
+        "negative": {
+          "polite": "あそびませんでした",
+          "plain": "あそばなかった"
+        },
+        "question": {
+          "polite": "あそびましたか",
+          "plain": "あそんだ？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "あそべます",
+          "plain": "あそべる"
+        },
+        "negative": {
+          "polite": "あそべません",
+          "plain": "あそべない"
+        },
+        "question": {
+          "polite": "あそべますか",
+          "plain": "あそべる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あそべました",
+          "plain": "あそべた"
+        },
+        "negative": {
+          "polite": "あそべませんでした",
+          "plain": "あそべなかった"
+        },
+        "question": {
+          "polite": "あそべましたか",
+          "plain": "あそべた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "公園で遊んだ。",
+        "reading": "こうえんであそんだ。",
+        "vietnamese": "Đã chơi ở công viên."
+      },
+      {
+        "japanese": "今日は遊べない。",
+        "reading": "きょうはあそべない。",
+        "vietnamese": "Hôm nay không thể chơi được."
+      }
+    ],
+    "ba_form": "遊べば",
+    "ba_example": "公園で遊べば、楽しいです。",
+    "ta_form": "遊んだ",
+    "ta_example": "子供と一緒に遊んだ。"
+  },
+  {
+    "id": 3,
+    "kanji": "洗う",
+    "reading": "あらう",
+    "meaning": "rửa",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "あらいます",
+          "plain": "あらう"
+        },
+        "negative": {
+          "polite": "あらいません",
+          "plain": "あらわない"
+        },
+        "question": {
+          "polite": "あらいますか",
+          "plain": "あらう？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あらいました",
+          "plain": "あらった"
+        },
+        "negative": {
+          "polite": "あらいませんでした",
+          "plain": "あらわなかった"
+        },
+        "question": {
+          "polite": "あらいましたか",
+          "plain": "あらった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "あらえます",
+          "plain": "あらえる"
+        },
+        "negative": {
+          "polite": "あらえません",
+          "plain": "あらえない"
+        },
+        "question": {
+          "polite": "あらえますか",
+          "plain": "あらえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あらえました",
+          "plain": "あらえた"
+        },
+        "negative": {
+          "polite": "あらえませんでした",
+          "plain": "あらえなかった"
+        },
+        "question": {
+          "polite": "あらえましたか",
+          "plain": "あらえた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "手を洗います。",
+        "reading": "てをあらいます。",
+        "vietnamese": "Rửa tay."
+      },
+      {
+        "japanese": "皿を洗わなかった。",
+        "reading": "さらをあらわなかった。",
+        "vietnamese": "Đã không rửa bát."
+      }
+    ],
+    "ba_form": "洗えば",
+    "ba_example": "手を洗えば、きれいです。",
+    "ta_form": "洗った",
+    "ta_example": "朝、顔を洗った。"
+  },
+  {
+    "id": 4,
+    "kanji": "ある",
+    "reading": "ある",
+    "meaning": "có (đồ vật/sự việc)",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "あります",
+          "plain": "ある"
+        },
+        "negative": {
+          "polite": "ありません",
+          "plain": "ない"
+        },
+        "question": {
+          "polite": "ありますか",
+          "plain": "ある？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "ありました",
+          "plain": "あった"
+        },
+        "negative": {
+          "polite": "ありませんでした",
+          "plain": "なかった"
+        },
+        "question": {
+          "polite": "ありましたか",
+          "plain": "あった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "-",
+          "plain": "-"
+        },
+        "negative": {
+          "polite": "-",
+          "plain": "-"
+        },
+        "question": {
+          "polite": "-",
+          "plain": "-"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "-",
+          "plain": "-"
+        },
+        "negative": {
+          "polite": "-",
+          "plain": "-"
+        },
+        "question": {
+          "polite": "-",
+          "plain": "-"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "机の上に本がある。",
+        "reading": "つくえのうえにほんがある。",
+        "vietnamese": "Trên bàn có quyển sách."
+      },
+      {
+        "japanese": "お金がありませんでした。",
+        "reading": "おかねがありませんでした。",
+        "vietnamese": "Đã không có tiền."
+      }
+    ],
+    "ba_form": "あれば",
+    "ba_example": "時間があれば、行きます。",
+    "ta_form": "あった",
+    "ta_example": "昔、ここに学校があった。"
+  },
+  {
+    "id": 5,
+    "kanji": "歩く",
+    "reading": "あるく",
+    "meaning": "đi bộ",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "あるきます",
+          "plain": "あるく"
+        },
+        "negative": {
+          "polite": "あるきません",
+          "plain": "あるかない"
+        },
+        "question": {
+          "polite": "あるきますか",
+          "plain": "あるく？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あるきました",
+          "plain": "あるいた"
+        },
+        "negative": {
+          "polite": "あるきませんでした",
+          "plain": "あるかなかった"
+        },
+        "question": {
+          "polite": "あるきましたか",
+          "plain": "あるいた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "あるけます",
+          "plain": "あるける"
+        },
+        "negative": {
+          "polite": "あるけません",
+          "plain": "あるけない"
+        },
+        "question": {
+          "polite": "あるけますか",
+          "plain": "あるける？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あるけました",
+          "plain": "あるけた"
+        },
+        "negative": {
+          "polite": "あるけませんでした",
+          "plain": "あるけなかった"
+        },
+        "question": {
+          "polite": "あるけましたか",
+          "plain": "あるけた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "駅まで歩きました。",
+        "reading": "えきまであるきました。",
+        "vietnamese": "Đã đi bộ đến nhà ga."
+      },
+      {
+        "japanese": "足が痛くて歩けない。",
+        "reading": "あしがいたくてあるけない。",
+        "vietnamese": "Chân đau nên không thể đi bộ."
+      }
+    ],
+    "ba_form": "歩けば",
+    "ba_example": "毎日歩けば、元気になります。",
+    "ta_form": "歩いた",
+    "ta_example": "駅まで歩いた。"
+  },
+  {
+    "id": 6,
+    "kanji": "言う",
+    "reading": "いう",
+    "meaning": "nói",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "いいます",
+          "plain": "いう"
+        },
+        "negative": {
+          "polite": "いいません",
+          "plain": "いわない"
+        },
+        "question": {
+          "polite": "いいますか",
+          "plain": "いう？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "いいました",
+          "plain": "いった"
+        },
+        "negative": {
+          "polite": "いいませんでした",
+          "plain": "いわなかった"
+        },
+        "question": {
+          "polite": "いいましたか",
+          "plain": "いった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "いえます",
+          "plain": "いえる"
+        },
+        "negative": {
+          "polite": "いえません",
+          "plain": "いえない"
+        },
+        "question": {
+          "polite": "いえますか",
+          "plain": "いえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "いえました",
+          "plain": "いえた"
+        },
+        "negative": {
+          "polite": "いえませんでした",
+          "plain": "いえなかった"
+        },
+        "question": {
+          "polite": "いえましたか",
+          "plain": "いえた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "「おはよう」と言います。",
+        "reading": "「おはよう」といいます。",
+        "vietnamese": "Nói \"Xin chào\"."
+      },
+      {
+        "japanese": "彼は何も言わなかった。",
+        "reading": "かれはなにもいわなかった。",
+        "vietnamese": "Anh ấy đã không nói gì."
+      }
+    ],
+    "ba_form": "言えば",
+    "ba_example": "「はい」と言えば、いいです。",
+    "ta_form": "言った",
+    "ta_example": "彼は「さようなら」と言った。"
+  },
+  {
+    "id": 7,
+    "kanji": "行く",
+    "reading": "いく",
+    "meaning": "đi",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "いきます",
+          "plain": "いく"
+        },
+        "negative": {
+          "polite": "いきません",
+          "plain": "いかない"
+        },
+        "question": {
+          "polite": "いきますか",
+          "plain": "いく？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "いきました",
+          "plain": "いった"
+        },
+        "negative": {
+          "polite": "いきませんでした",
+          "plain": "いかなかった"
+        },
+        "question": {
+          "polite": "いきましたか",
+          "plain": "いった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "いけます",
+          "plain": "いける"
+        },
+        "negative": {
+          "polite": "いけません",
+          "plain": "いけない"
+        },
+        "question": {
+          "polite": "いけますか",
+          "plain": "いける？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "いけました",
+          "plain": "いけた"
+        },
+        "negative": {
+          "polite": "いけませんでした",
+          "plain": "いけなかった"
+        },
+        "question": {
+          "polite": "いけましたか",
+          "plain": "いけた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "学校に行きます。",
+        "reading": "がっこうにいきます。",
+        "vietnamese": "Đi đến trường."
+      },
+      {
+        "japanese": "一人でアメリカに行けますか。",
+        "reading": "ひとりでアメリカにいけますか。",
+        "vietnamese": "Ngày mai không đi."
+      }
+    ],
+    "ba_form": "行けば",
+    "ba_example": "学校へ行けば、友達がいます。",
+    "ta_form": "行った",
+    "ta_example": "日曜日にデパートへ行った。"
+  },
+  {
+    "id": 8,
+    "kanji": "歌う",
+    "reading": "うたう",
+    "meaning": "hát",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "うたいます",
+          "plain": "うたう"
+        },
+        "negative": {
+          "polite": "うたいません",
+          "plain": "うたわない"
+        },
+        "question": {
+          "polite": "うたいますか",
+          "plain": "うたう？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "うたいました",
+          "plain": "うたった"
+        },
+        "negative": {
+          "polite": "うたいませんでした",
+          "plain": "うたわなかった"
+        },
+        "question": {
+          "polite": "うたいましたか",
+          "plain": "うたった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "うたえます",
+          "plain": "うたえる"
+        },
+        "negative": {
+          "polite": "うたえません",
+          "plain": "うたえない"
+        },
+        "question": {
+          "polite": "うたえますか",
+          "plain": "うたえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "うたえました",
+          "plain": "うたえた"
+        },
+        "negative": {
+          "polite": "うたえませんでした",
+          "plain": "うたえなかった"
+        },
+        "question": {
+          "polite": "うたえましたか",
+          "plain": "うたえた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "歌を歌います。",
+        "reading": "うたをうたいます。",
+        "vietnamese": "Hát bài hát."
+      },
+      {
+        "japanese": "カラオケで歌わなかった。",
+        "reading": "カラオケでうたわなかった。",
+        "vietnamese": "Đã không hát karaoke."
+      }
+    ],
+    "ba_form": "歌えば",
+    "ba_example": "歌を歌えば、楽しいです。",
+    "ta_form": "歌った",
+    "ta_example": "カラオケでたくさん歌った。"
+  },
+  {
+    "id": 9,
+    "kanji": "売る",
+    "reading": "うる",
+    "meaning": "bán",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "うります",
+          "plain": "うる"
+        },
+        "negative": {
+          "polite": "うりません",
+          "plain": "うらない"
+        },
+        "question": {
+          "polite": "うりますか",
+          "plain": "うる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "うりました",
+          "plain": "うった"
+        },
+        "negative": {
+          "polite": "うりませんでした",
+          "plain": "うらなかった"
+        },
+        "question": {
+          "polite": "うりましたか",
+          "plain": "うった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "うれます",
+          "plain": "うれる"
+        },
+        "negative": {
+          "polite": "うれません",
+          "plain": "うれない"
+        },
+        "question": {
+          "polite": "うれますか",
+          "plain": "うれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "うれました",
+          "plain": "うれた"
+        },
+        "negative": {
+          "polite": "うれませんでした",
+          "plain": "うれなかった"
+        },
+        "question": {
+          "polite": "うれましたか",
+          "plain": "うれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "古い車を売った。",
+        "reading": "ふるいくるまをうった。",
+        "vietnamese": "Bán sách cũ."
+      },
+      {
+        "japanese": "このカメラは売れません。",
+        "reading": "このカメラはうれません。",
+        "vietnamese": "Không bán được."
+      }
+    ],
+    "ba_form": "売れば",
+    "ba_example": "車を売れば、お金があります。",
+    "ta_form": "売った",
+    "ta_example": "古い本を売った。"
+  },
+  {
+    "id": 10,
+    "kanji": "置く",
+    "reading": "おく",
+    "meaning": "đặt, để",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "おきます",
+          "plain": "おく"
+        },
+        "negative": {
+          "polite": "おきません",
+          "plain": "おかない"
+        },
+        "question": {
+          "polite": "おきますか",
+          "plain": "おく？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "おきました",
+          "plain": "おいた"
+        },
+        "negative": {
+          "polite": "おきませんでした",
+          "plain": "おかなかった"
+        },
+        "question": {
+          "polite": "おきましたか",
+          "plain": "おいた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "おけます",
+          "plain": "おける"
+        },
+        "negative": {
+          "polite": "おけません",
+          "plain": "おけない"
+        },
+        "question": {
+          "polite": "おけますか",
+          "plain": "おける？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "おけました",
+          "plain": "おけた"
+        },
+        "negative": {
+          "polite": "おけませんでした",
+          "plain": "おけなかった"
+        },
+        "question": {
+          "polite": "おけましたか",
+          "plain": "おけた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "荷物をここに置きます。",
+        "reading": "にもつをここにおきます。",
+        "vietnamese": "Đặt sách lên bàn."
+      },
+      {
+        "japanese": "そこに辞書を置かない。",
+        "reading": "そこにじしょをおかない。",
+        "vietnamese": "Đã đặt chìa khóa ở đâu?"
+      }
+    ],
+    "ba_form": "để)",
+    "ba_example": "置けば",
+    "ta_form": "ここに荷物を置けば、大丈夫です。",
+    "ta_example": "置いた"
+  },
+  {
+    "id": 11,
+    "kanji": "押す",
+    "reading": "おす",
+    "meaning": "ấn, đẩy",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "おします",
+          "plain": "おす"
+        },
+        "negative": {
+          "polite": "おしません",
+          "plain": "おさない"
+        },
+        "question": {
+          "polite": "おしますか",
+          "plain": "おす？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "おしました",
+          "plain": "おした"
+        },
+        "negative": {
+          "polite": "おしませんでした",
+          "plain": "おさなかった"
+        },
+        "question": {
+          "polite": "おしましたか",
+          "plain": "おした？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "おせます",
+          "plain": "おせる"
+        },
+        "negative": {
+          "polite": "おせません",
+          "plain": "おせない"
+        },
+        "question": {
+          "polite": "おせますか",
+          "plain": "おせる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "おせました",
+          "plain": "おせた"
+        },
+        "negative": {
+          "polite": "おせませんでした",
+          "plain": "おせなかった"
+        },
+        "question": {
+          "polite": "おせましたか",
+          "plain": "おせた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "このボタンを押します。",
+        "reading": "このぼたんをおします。",
+        "vietnamese": "Nhấn nút."
+      },
+      {
+        "japanese": "ドアを押した。",
+        "reading": "ドアをおした。",
+        "vietnamese": "Đã nhấn nút khẩn cấp."
+      }
+    ],
+    "ba_form": "đẩy)",
+    "ba_example": "押せば",
+    "ta_form": "このボタンを押せば、水が出ます。",
+    "ta_example": "押した"
+  },
+  {
+    "id": 12,
+    "kanji": "泳ぐ",
+    "reading": "およぐ",
+    "meaning": "bơi",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "およぎます",
+          "plain": "およぐ"
+        },
+        "negative": {
+          "polite": "およぎません",
+          "plain": "およがない"
+        },
+        "question": {
+          "polite": "およぎますか",
+          "plain": "およぐ？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "およぎました",
+          "plain": "およいだ"
+        },
+        "negative": {
+          "polite": "およぎませんでした",
+          "plain": "およがなかった"
+        },
+        "question": {
+          "polite": "およぎましたか",
+          "plain": "およいだ？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "およげます",
+          "plain": "およげる"
+        },
+        "negative": {
+          "polite": "およげません",
+          "plain": "およげない"
+        },
+        "question": {
+          "polite": "およげますか",
+          "plain": "およげる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "およげました",
+          "plain": "およげた"
+        },
+        "negative": {
+          "polite": "およげませんでした",
+          "plain": "およげなかった"
+        },
+        "question": {
+          "polite": "およげましたか",
+          "plain": "およげた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "プールで泳ぎます。",
+        "reading": "ぷーるでおよぎます。",
+        "vietnamese": "Bơi ở biển."
+      },
+      {
+        "japanese": "私は海で泳げない。",
+        "reading": "わたしはうみでおよげない。",
+        "vietnamese": "Không thể bơi được."
+      }
+    ],
+    "ba_form": "泳げば",
+    "ba_example": "海で泳げば、気持ちいいです。",
+    "ta_form": "泳いだ",
+    "ta_example": "プールで泳いだ。"
+  },
+  {
+    "id": 13,
+    "kanji": "買う",
+    "reading": "かう",
+    "meaning": "mua",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "かいます",
+          "plain": "かう"
+        },
+        "negative": {
+          "polite": "かいません",
+          "plain": "かわない"
+        },
+        "question": {
+          "polite": "かいますか",
+          "plain": "かう？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かいました",
+          "plain": "かった"
+        },
+        "negative": {
+          "polite": "かいませんでした",
+          "plain": "かわなかった"
+        },
+        "question": {
+          "polite": "かいましたか",
+          "plain": "かった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "かえます",
+          "plain": "かえる"
+        },
+        "negative": {
+          "polite": "かえません",
+          "plain": "かえない"
+        },
+        "question": {
+          "polite": "かえますか",
+          "plain": "かえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かえました",
+          "plain": "かえた"
+        },
+        "negative": {
+          "polite": "かえませんでした",
+          "plain": "かえなかった"
+        },
+        "question": {
+          "polite": "かえましたか",
+          "plain": "かえた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "新しい靴を買いました。",
+        "reading": "あたらしいくつをかいました。",
+        "vietnamese": "Mua sách."
+      },
+      {
+        "japanese": "高いから買わない。",
+        "reading": "たかいからかわない。",
+        "vietnamese": "Đã không mua quần áo."
+      }
+    ],
+    "ba_form": "買えば",
+    "ba_example": "新しい靴を買えば、出かけたいです。",
+    "ta_form": "買った",
+    "ta_example": "スーパーでパンを買った。"
+  },
+  {
+    "id": 14,
+    "kanji": "返す",
+    "reading": "かえす",
+    "meaning": "trả lại",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "かえします",
+          "plain": "かえす"
+        },
+        "negative": {
+          "polite": "かえしません",
+          "plain": "かえさない"
+        },
+        "question": {
+          "polite": "かえしますか",
+          "plain": "かえす？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かえしました",
+          "plain": "かえした"
+        },
+        "negative": {
+          "polite": "かえしませんでした",
+          "plain": "かえさなかった"
+        },
+        "question": {
+          "polite": "かえしましたか",
+          "plain": "かえした？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "かえせます",
+          "plain": "かえせる"
+        },
+        "negative": {
+          "polite": "かえせません",
+          "plain": "かえせない"
+        },
+        "question": {
+          "polite": "かえせますか",
+          "plain": "かえせる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かえせました",
+          "plain": "かえせた"
+        },
+        "negative": {
+          "polite": "かえせませんでした",
+          "plain": "かえせなかった"
+        },
+        "question": {
+          "polite": "かえせましたか",
+          "plain": "かえせた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "本を明日返します。",
+        "reading": "ほんをあしたかえします。",
+        "vietnamese": "Trả lại sách."
+      },
+      {
+        "japanese": "お金を返さなかった。",
+        "reading": "おかねをかえさなかった。",
+        "vietnamese": "Chưa trả lại tiền."
+      }
+    ],
+    "ba_form": "返せば",
+    "ba_example": "本を返せば、また借りることができます。",
+    "ta_form": "返した",
+    "ta_example": "図書館に本を返した。"
+  },
+  {
+    "id": 15,
+    "kanji": "帰る",
+    "reading": "かえる",
+    "meaning": "về",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "かえります",
+          "plain": "かえる"
+        },
+        "negative": {
+          "polite": "かえりません",
+          "plain": "かえらない"
+        },
+        "question": {
+          "polite": "かえりますか",
+          "plain": "かえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かえりました",
+          "plain": "かえった"
+        },
+        "negative": {
+          "polite": "かえりませんでした",
+          "plain": "かえらなかった"
+        },
+        "question": {
+          "polite": "かえりましたか",
+          "plain": "かえった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "かえれます",
+          "plain": "かえれる"
+        },
+        "negative": {
+          "polite": "かえれません",
+          "plain": "かえれない"
+        },
+        "question": {
+          "polite": "かえれますか",
+          "plain": "かえれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かえれました",
+          "plain": "かえれた"
+        },
+        "negative": {
+          "polite": "かえれませんでした",
+          "plain": "かえれなかった"
+        },
+        "question": {
+          "polite": "かえれましたか",
+          "plain": "かえれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "７時に家へ帰る。",
+        "reading": "しちじにいえへかえる。",
+        "vietnamese": "Về nhà."
+      },
+      {
+        "japanese": "昨日は帰りませんでした。",
+        "reading": "きのうはかえりませんでした。",
+        "vietnamese": "Hôm qua đã về muộn."
+      }
+    ],
+    "ba_form": "帰れば",
+    "ba_example": "早く帰れば、映画を見ます。",
+    "ta_form": "帰った",
+    "ta_example": "夜７時にうちへ帰った。"
+  },
+  {
+    "id": 16,
+    "kanji": "書く",
+    "reading": "かく",
+    "meaning": "viết",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "かきます",
+          "plain": "かく"
+        },
+        "negative": {
+          "polite": "かきません",
+          "plain": "かかない"
+        },
+        "question": {
+          "polite": "かきますか",
+          "plain": "かく？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かきました",
+          "plain": "かいた"
+        },
+        "negative": {
+          "polite": "かきませんでした",
+          "plain": "かかなかった"
+        },
+        "question": {
+          "polite": "かきましたか",
+          "plain": "かいた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "かけます",
+          "plain": "かける"
+        },
+        "negative": {
+          "polite": "かけません",
+          "plain": "かけない"
+        },
+        "question": {
+          "polite": "かけますか",
+          "plain": "かける？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かけました",
+          "plain": "かけた"
+        },
+        "negative": {
+          "polite": "かけませんでした",
+          "plain": "かけなかった"
+        },
+        "question": {
+          "polite": "かけましたか",
+          "plain": "かけた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "手紙を書きます。",
+        "reading": "てがみをかきます。",
+        "vietnamese": "Viết thư."
+      },
+      {
+        "japanese": "漢字が書けますか。",
+        "reading": "かんじがかけますか。",
+        "vietnamese": "Đã không viết nhật ký."
+      }
+    ],
+    "ba_form": "書けば",
+    "ba_example": "手紙を書けば、母は喜びます。",
+    "ta_form": "書いた",
+    "ta_example": "ノートに名前を書いた。"
+  },
+  {
+    "id": 17,
+    "kanji": "掛かる",
+    "reading": "かかる",
+    "meaning": "tốn (thời gian, tiền)",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "かかります",
+          "plain": "かかる"
+        },
+        "negative": {
+          "polite": "かかりません",
+          "plain": "かからない"
+        },
+        "question": {
+          "polite": "かかりますか",
+          "plain": "かかる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かかりました",
+          "plain": "かかった"
+        },
+        "negative": {
+          "polite": "かかりませんでした",
+          "plain": "かからなかった"
+        },
+        "question": {
+          "polite": "かかりましたか",
+          "plain": "かかった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "かかれます",
+          "plain": "かかれる"
+        },
+        "negative": {
+          "polite": "かかれません",
+          "plain": "かかれない"
+        },
+        "question": {
+          "polite": "かかれますか",
+          "plain": "かかれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かかれました",
+          "plain": "かかれた"
+        },
+        "negative": {
+          "polite": "かかれませんでした",
+          "plain": "かかれなかった"
+        },
+        "question": {
+          "polite": "かかれましたか",
+          "plain": "かかれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "１０分掛かります。",
+        "reading": "じゅっぷんかかります。",
+        "vietnamese": "Mất 10 phút."
+      },
+      {
+        "japanese": "お金が掛からなかった。",
+        "reading": "おかねがかからなかった。",
+        "vietnamese": "Đã không mất nhiều thời gian."
+      }
+    ],
+    "ba_form": "掛かれば",
+    "ba_example": "時間が掛かれば、明日やります。",
+    "ta_form": "掛かった",
+    "ta_example": "お金がたくさん掛かった。"
+  },
+  {
+    "id": 18,
+    "kanji": "貸す",
+    "reading": "かす",
+    "meaning": "cho mượn",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "かします",
+          "plain": "かす"
+        },
+        "negative": {
+          "polite": "かしません",
+          "plain": "かさない"
+        },
+        "question": {
+          "polite": "かしますか",
+          "plain": "かす？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かしました",
+          "plain": "かした"
+        },
+        "negative": {
+          "polite": "かしませんでした",
+          "plain": "かさなかった"
+        },
+        "question": {
+          "polite": "かしましたか",
+          "plain": "かした？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "かせます",
+          "plain": "かせる"
+        },
+        "negative": {
+          "polite": "かせません",
+          "plain": "かせない"
+        },
+        "question": {
+          "polite": "かせますか",
+          "plain": "かせる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かせました",
+          "plain": "かせた"
+        },
+        "negative": {
+          "polite": "かせませんでした",
+          "plain": "かせなかった"
+        },
+        "question": {
+          "polite": "かせましたか",
+          "plain": "かせた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "ペンを貸します。",
+        "reading": "ぺんをかします。",
+        "vietnamese": "Cho mượn sách."
+      },
+      {
+        "japanese": "自転車を貸せますか。",
+        "reading": "じてんしゃをかせますか。",
+        "vietnamese": "Đã không cho mượn tiền."
+      }
+    ],
+    "ba_form": "貸せば",
+    "ba_example": "傘を貸せば、友達は帰れます。",
+    "ta_form": "貸した",
+    "ta_example": "友達にペンを貸した。"
+  },
+  {
+    "id": 19,
+    "kanji": "頑張る",
+    "reading": "がんばる",
+    "meaning": "cố gắng",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "がんばります",
+          "plain": "がんばる"
+        },
+        "negative": {
+          "polite": "がんばりません",
+          "plain": "がんばらない"
+        },
+        "question": {
+          "polite": "がんばりますか",
+          "plain": "がんばる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "がんばりました",
+          "plain": "がんばった"
+        },
+        "negative": {
+          "polite": "がんばりませんでした",
+          "plain": "がんばらなかった"
+        },
+        "question": {
+          "polite": "がんばりましたか",
+          "plain": "がんばった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "がんばれます",
+          "plain": "がんばれる"
+        },
+        "negative": {
+          "polite": "がんばれません",
+          "plain": "がんばれない"
+        },
+        "question": {
+          "polite": "がんばれますか",
+          "plain": "がんばれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "がんばれました",
+          "plain": "がんばれた"
+        },
+        "negative": {
+          "polite": "がんばれませんでした",
+          "plain": "がんばれなかった"
+        },
+        "question": {
+          "polite": "がんばれましたか",
+          "plain": "がんばれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "勉強を頑張ります。",
+        "reading": "べんきょうをがんばります。",
+        "vietnamese": "Cố gắng học."
+      },
+      {
+        "japanese": "試合で頑張った。",
+        "reading": "しあいでがんばった。",
+        "vietnamese": "Hãy cố gắng lên."
+      }
+    ],
+    "ba_form": "頑張れば",
+    "ba_example": "頑張れば、できます。",
+    "ta_form": "頑張った",
+    "ta_example": "テストのために頑張った。"
+  },
+  {
+    "id": 20,
+    "kanji": "聞く",
+    "reading": "きく",
+    "meaning": "nghe, hỏi",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "ききます",
+          "plain": "きく"
+        },
+        "negative": {
+          "polite": "ききません",
+          "plain": "きかない"
+        },
+        "question": {
+          "polite": "ききますか",
+          "plain": "きく？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "ききました",
+          "plain": "きいた"
+        },
+        "negative": {
+          "polite": "ききませんでした",
+          "plain": "きかなかった"
+        },
+        "question": {
+          "polite": "ききましたか",
+          "plain": "きいた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "きけます",
+          "plain": "きける"
+        },
+        "negative": {
+          "polite": "きけません",
+          "plain": "きけない"
+        },
+        "question": {
+          "polite": "きけますか",
+          "plain": "きける？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "きけました",
+          "plain": "きけた"
+        },
+        "negative": {
+          "polite": "きけませんでした",
+          "plain": "きけなかった"
+        },
+        "question": {
+          "polite": "きけましたか",
+          "plain": "きけた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "音楽を聞きます。",
+        "reading": "おんがくをききます。",
+        "vietnamese": "Nghe nhạc."
+      },
+      {
+        "japanese": "先生の歌が聞けた。",
+        "reading": "せんせいのうたがきけた。",
+        "vietnamese": "Đã hỏi thầy giáo."
+      }
+    ],
+    "ba_form": "hỏi)",
+    "ba_example": "聞けば",
+    "ta_form": "先生に聞けば、わかります。",
+    "ta_example": "聞いた"
+  },
+  {
+    "id": 21,
+    "kanji": "切る",
+    "reading": "きる",
+    "meaning": "cắt",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "きります",
+          "plain": "きる"
+        },
+        "negative": {
+          "polite": "きりません",
+          "plain": "きらない"
+        },
+        "question": {
+          "polite": "きりますか",
+          "plain": "きる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "きりました",
+          "plain": "きった"
+        },
+        "negative": {
+          "polite": "きりませんでした",
+          "plain": "きらなかった"
+        },
+        "question": {
+          "polite": "きりましたか",
+          "plain": "きった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "きれます",
+          "plain": "きれる"
+        },
+        "negative": {
+          "polite": "きれません",
+          "plain": "きれない"
+        },
+        "question": {
+          "polite": "きれますか",
+          "plain": "きれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "きれました",
+          "plain": "きれた"
+        },
+        "negative": {
+          "polite": "きれませんでした",
+          "plain": "きれなかった"
+        },
+        "question": {
+          "polite": "きれましたか",
+          "plain": "きれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "紙を切ります。",
+        "reading": "かみをきります。",
+        "vietnamese": "Cắt giấy."
+      },
+      {
+        "japanese": "ナイフで指を切った。",
+        "reading": "ナイフでゆびをきった。",
+        "vietnamese": "Đã cắt tóc."
+      }
+    ],
+    "ba_form": "切れば",
+    "ba_example": "これを切れば、食べられます。",
+    "ta_form": "切った",
+    "ta_example": "ハサミで紙を切った。"
+  },
+  {
+    "id": 22,
+    "kanji": "消す",
+    "reading": "けす",
+    "meaning": "tắt, xóa",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "けします",
+          "plain": "けす"
+        },
+        "negative": {
+          "polite": "けしません",
+          "plain": "けさない"
+        },
+        "question": {
+          "polite": "けしますか",
+          "plain": "けす？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "けしました",
+          "plain": "けした"
+        },
+        "negative": {
+          "polite": "けしませんでした",
+          "plain": "けさなかった"
+        },
+        "question": {
+          "polite": "けしましたか",
+          "plain": "けした？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "けせます",
+          "plain": "けせる"
+        },
+        "negative": {
+          "polite": "けせません",
+          "plain": "けせない"
+        },
+        "question": {
+          "polite": "けせますか",
+          "plain": "けせる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "けせました",
+          "plain": "けせた"
+        },
+        "negative": {
+          "polite": "けせませんでした",
+          "plain": "けせなかった"
+        },
+        "question": {
+          "polite": "けせましたか",
+          "plain": "けせた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "電気を消します。",
+        "reading": "でんきをけします。",
+        "vietnamese": "Tắt đèn."
+      },
+      {
+        "japanese": "火を消せなかった。",
+        "reading": "ひをけせなかった。",
+        "vietnamese": "Đã không tắt TV."
+      }
+    ],
+    "ba_form": "xóa)",
+    "ba_example": "消せば",
+    "ta_form": "電気を消せば、暗いです。",
+    "ta_example": "消した"
+  },
+  {
+    "id": 23,
+    "kanji": "触る",
+    "reading": "さわる",
+    "meaning": "sờ, chạm",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "さわります",
+          "plain": "さわる"
+        },
+        "negative": {
+          "polite": "さわりません",
+          "plain": "さわらない"
+        },
+        "question": {
+          "polite": "さわりますか",
+          "plain": "さわる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "さわりました",
+          "plain": "さわった"
+        },
+        "negative": {
+          "polite": "さわりませんでした",
+          "plain": "さわらなかった"
+        },
+        "question": {
+          "polite": "さわりましたか",
+          "plain": "さわった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "さわれます",
+          "plain": "さわれる"
+        },
+        "negative": {
+          "polite": "さわれません",
+          "plain": "さわれない"
+        },
+        "question": {
+          "polite": "さわれますか",
+          "plain": "さわれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "さわれました",
+          "plain": "さわれた"
+        },
+        "negative": {
+          "polite": "さわれませんでした",
+          "plain": "さわれなかった"
+        },
+        "question": {
+          "polite": "さわれましたか",
+          "plain": "さわれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "絵に触ります。",
+        "reading": "えにさわります。",
+        "vietnamese": "Chạm vào tranh."
+      },
+      {
+        "japanese": "美術館の絵に触らない。",
+        "reading": "びじゅつかんのえにさわらない。",
+        "vietnamese": "Xin đừng chạm."
+      }
+    ],
+    "ba_form": "chạm)",
+    "ba_example": "触れば",
+    "ta_form": "これに触れば、熱いです。",
+    "ta_example": "触った"
+  },
+  {
+    "id": 24,
+    "kanji": "知る",
+    "reading": "しる",
+    "meaning": "biết",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "しります",
+          "plain": "しる"
+        },
+        "negative": {
+          "polite": "しりません",
+          "plain": "しらない"
+        },
+        "question": {
+          "polite": "しりますか",
+          "plain": "しる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "しりました",
+          "plain": "しった"
+        },
+        "negative": {
+          "polite": "しりませんでした",
+          "plain": "しらなかった"
+        },
+        "question": {
+          "polite": "しりましたか",
+          "plain": "しった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "しれます",
+          "plain": "しれる"
+        },
+        "negative": {
+          "polite": "しれません",
+          "plain": "しれない"
+        },
+        "question": {
+          "polite": "しれますか",
+          "plain": "しれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "しれました",
+          "plain": "しれた"
+        },
+        "negative": {
+          "polite": "しれませんでした",
+          "plain": "しれなかった"
+        },
+        "question": {
+          "polite": "しれましたか",
+          "plain": "しれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "彼の名前を知っています。",
+        "reading": "かれのなまえをしっています。",
+        "vietnamese": "Biết câu trả lời."
+      },
+      {
+        "japanese": "その話を知らなかった。",
+        "reading": "そのはなしをしらなかった。",
+        "vietnamese": "Không biết tên anh ấy."
+      }
+    ],
+    "ba_form": "知れば",
+    "ba_example": "あの人を知れば、好きになります。",
+    "ta_form": "知った",
+    "ta_example": "そのニュースを知った。"
+  },
+  {
+    "id": 25,
+    "kanji": "吸う",
+    "reading": "すう",
+    "meaning": "hút",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "すいます",
+          "plain": "すう"
+        },
+        "negative": {
+          "polite": "すいません",
+          "plain": "すわない"
+        },
+        "question": {
+          "polite": "すいますか",
+          "plain": "すう？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "すいました",
+          "plain": "すった"
+        },
+        "negative": {
+          "polite": "すいませんでした",
+          "plain": "すわなかった"
+        },
+        "question": {
+          "polite": "すいましたか",
+          "plain": "すった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "すえます",
+          "plain": "すえる"
+        },
+        "negative": {
+          "polite": "すえません",
+          "plain": "すえない"
+        },
+        "question": {
+          "polite": "すえますか",
+          "plain": "すえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "すえました",
+          "plain": "すえた"
+        },
+        "negative": {
+          "polite": "すえませんでした",
+          "plain": "すえなかった"
+        },
+        "question": {
+          "polite": "すえましたか",
+          "plain": "すえた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "タバコを吸います。",
+        "reading": "タバコをすいます。",
+        "vietnamese": "Hút thuốc."
+      },
+      {
+        "japanese": "ここでタバコを吸えない。",
+        "reading": "ここでタバコをすえない。",
+        "vietnamese": "Đã bỏ hút thuốc."
+      }
+    ],
+    "ba_form": "吸えば",
+    "ba_example": "タバコを吸えば、体に悪いです。",
+    "ta_form": "吸った",
+    "ta_example": "昔、タバコを吸った。"
+  },
+  {
+    "id": 26,
+    "kanji": "住む",
+    "reading": "すむ",
+    "meaning": "sống",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "すみます",
+          "plain": "すむ"
+        },
+        "negative": {
+          "polite": "すみません",
+          "plain": "すまない"
+        },
+        "question": {
+          "polite": "すみますか",
+          "plain": "すむ？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "すみました",
+          "plain": "すんだ"
+        },
+        "negative": {
+          "polite": "すみませんでした",
+          "plain": "すまなかった"
+        },
+        "question": {
+          "polite": "すみましたか",
+          "plain": "すんだ？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "すめます",
+          "plain": "すめる"
+        },
+        "negative": {
+          "polite": "すめません",
+          "plain": "すめない"
+        },
+        "question": {
+          "polite": "すめますか",
+          "plain": "すめる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "すめました",
+          "plain": "すめた"
+        },
+        "negative": {
+          "polite": "すめませんでした",
+          "plain": "すめなかった"
+        },
+        "question": {
+          "polite": "すめましたか",
+          "plain": "すめた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "東京に住む。",
+        "reading": "とうきょうにすむ。",
+        "vietnamese": "Sống ở Tokyo."
+      },
+      {
+        "japanese": "日本に住めますか。",
+        "reading": "にほんにすめますか。",
+        "vietnamese": "Không sống ở đây."
+      }
+    ],
+    "ba_form": "住めば",
+    "ba_example": "日本に住めば、日本語が上手になります。",
+    "ta_form": "住んだ",
+    "ta_example": "去年、ハノイに住んだ。"
+  },
+  {
+    "id": 27,
+    "kanji": "立つ",
+    "reading": "たつ",
+    "meaning": "đứng",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "たちます",
+          "plain": "たつ"
+        },
+        "negative": {
+          "polite": "たちません",
+          "plain": "たたない"
+        },
+        "question": {
+          "polite": "たちますか",
+          "plain": "たつ？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "たちました",
+          "plain": "たった"
+        },
+        "negative": {
+          "polite": "たちませんでした",
+          "plain": "たたなかった"
+        },
+        "question": {
+          "polite": "たちましたか",
+          "plain": "たった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "たてます",
+          "plain": "たてる"
+        },
+        "negative": {
+          "polite": "たてません",
+          "plain": "たてない"
+        },
+        "question": {
+          "polite": "たてますか",
+          "plain": "たてる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "たてました",
+          "plain": "たてた"
+        },
+        "negative": {
+          "polite": "たてませんでした",
+          "plain": "たてなかった"
+        },
+        "question": {
+          "polite": "たてましたか",
+          "plain": "たてた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "ドアの前に立ちます。",
+        "reading": "どあのまえにたちます。",
+        "vietnamese": "Đứng dậy."
+      },
+      {
+        "japanese": "疲れて立てない。",
+        "reading": "つかれてたてない。",
+        "vietnamese": "Đã đứng 2 tiếng."
+      }
+    ],
+    "ba_form": "立てば",
+    "ba_example": "ここに立てば、よく見えます。",
+    "ta_form": "立った",
+    "ta_example": "いすから立った。"
+  },
+  {
+    "id": 28,
+    "kanji": "出す",
+    "reading": "だす",
+    "meaning": "lấy ra, nộp",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "だします",
+          "plain": "だす"
+        },
+        "negative": {
+          "polite": "だしません",
+          "plain": "ださない"
+        },
+        "question": {
+          "polite": "だしますか",
+          "plain": "だす？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "だしました",
+          "plain": "だした"
+        },
+        "negative": {
+          "polite": "だしませんでした",
+          "plain": "ださなかった"
+        },
+        "question": {
+          "polite": "だしましたか",
+          "plain": "だした？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "だせます",
+          "plain": "だせる"
+        },
+        "negative": {
+          "polite": "だせません",
+          "plain": "だせない"
+        },
+        "question": {
+          "polite": "だせますか",
+          "plain": "だせる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "だせました",
+          "plain": "だせた"
+        },
+        "negative": {
+          "polite": "だせませんでした",
+          "plain": "だせなかった"
+        },
+        "question": {
+          "polite": "だせましたか",
+          "plain": "だせた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "ノートを出します。",
+        "reading": "のおとをだします。",
+        "vietnamese": "Lấy ví ra."
+      },
+      {
+        "japanese": "宿題を出さなかった。",
+        "reading": "しゅくだいをださなかった。",
+        "vietnamese": "Đã nộp bài tập."
+      }
+    ],
+    "ba_form": "nộp)",
+    "ba_example": "出せば",
+    "ta_form": "お金を出せば、買えます。",
+    "ta_example": "出した"
+  },
+  {
+    "id": 29,
+    "kanji": "使う",
+    "reading": "つかう",
+    "meaning": "sử dụng",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "つかいます",
+          "plain": "つかう"
+        },
+        "negative": {
+          "polite": "つかいません",
+          "plain": "つかわない"
+        },
+        "question": {
+          "polite": "つかいますか",
+          "plain": "つかう？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "つかいました",
+          "plain": "つかった"
+        },
+        "negative": {
+          "polite": "つかいませんでした",
+          "plain": "つかわなかった"
+        },
+        "question": {
+          "polite": "つかいましたか",
+          "plain": "つかった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "つかえます",
+          "plain": "つかえる"
+        },
+        "negative": {
+          "polite": "つかえません",
+          "plain": "つかえない"
+        },
+        "question": {
+          "polite": "つかえますか",
+          "plain": "つかえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "つかえました",
+          "plain": "つかえた"
+        },
+        "negative": {
+          "polite": "つかえませんでした",
+          "plain": "つかえなかった"
+        },
+        "question": {
+          "polite": "つかえましたか",
+          "plain": "つかえた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "パソコンを使います。",
+        "reading": "ぱそこんをつかいます。",
+        "vietnamese": "Dùng máy tính."
+      },
+      {
+        "japanese": "このペンは使えない。",
+        "reading": "このペンはつかえない。",
+        "vietnamese": "Đã không dùng điện thoại."
+      }
+    ],
+    "ba_form": "使えば",
+    "ba_example": "辞書を使えば、わかります。",
+    "ta_form": "使った",
+    "ta_example": "パソコンを使った。"
+  },
+  {
+    "id": 30,
+    "kanji": "着く",
+    "reading": "つく",
+    "meaning": "đến",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "つきます",
+          "plain": "つく"
+        },
+        "negative": {
+          "polite": "つきません",
+          "plain": "つかない"
+        },
+        "question": {
+          "polite": "つきますか",
+          "plain": "つく？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "つきました",
+          "plain": "ついた"
+        },
+        "negative": {
+          "polite": "つきませんでした",
+          "plain": "つかなかった"
+        },
+        "question": {
+          "polite": "つきましたか",
+          "plain": "ついた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "つけます",
+          "plain": "つける"
+        },
+        "negative": {
+          "polite": "つけません",
+          "plain": "つけない"
+        },
+        "question": {
+          "polite": "つけますか",
+          "plain": "つける？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "つけました",
+          "plain": "つけた"
+        },
+        "negative": {
+          "polite": "つけませんでした",
+          "plain": "つけなかった"
+        },
+        "question": {
+          "polite": "つけましたか",
+          "plain": "つけた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "８時に駅に着きます。",
+        "reading": "はちじにえきにつきます。",
+        "vietnamese": "Đến nhà ga."
+      },
+      {
+        "japanese": "まだ駅に着かない。",
+        "reading": "まだえきにつかない。",
+        "vietnamese": "Vẫn chưa đến."
+      }
+    ],
+    "ba_form": "着けば",
+    "ba_example": "駅に着けば、電話します。",
+    "ta_form": "着いた",
+    "ta_example": "９時に会社に着いた。"
+  },
+  {
+    "id": 31,
+    "kanji": "作る",
+    "reading": "つくる",
+    "meaning": "làm, chế tạo",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "つくります",
+          "plain": "つくる"
+        },
+        "negative": {
+          "polite": "つくりません",
+          "plain": "つくらない"
+        },
+        "question": {
+          "polite": "つくりますか",
+          "plain": "つくる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "つくりました",
+          "plain": "つくった"
+        },
+        "negative": {
+          "polite": "つくりませんでした",
+          "plain": "つくらなかった"
+        },
+        "question": {
+          "polite": "つくりましたか",
+          "plain": "つくった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "つくれます",
+          "plain": "つくれる"
+        },
+        "negative": {
+          "polite": "つくれません",
+          "plain": "つくれない"
+        },
+        "question": {
+          "polite": "つくれますか",
+          "plain": "つくれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "つくれました",
+          "plain": "つくれた"
+        },
+        "negative": {
+          "polite": "つくれませんでした",
+          "plain": "つくれなかった"
+        },
+        "question": {
+          "polite": "つくれましたか",
+          "plain": "つくれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "晩ご飯を作ります。",
+        "reading": "ばんごはんをつくります。",
+        "vietnamese": "Làm cơm."
+      },
+      {
+        "japanese": "美味しいケーキを作れた。",
+        "reading": "おいしいケーキをつくれた。",
+        "vietnamese": "Đã không làm bánh."
+      }
+    ],
+    "ba_form": "chế tạo)",
+    "ba_example": "作れば",
+    "ta_form": "ケーキを作れば、みんなで食べます。",
+    "ta_example": "作った"
+  },
+  {
+    "id": 32,
+    "kanji": "止まる",
+    "reading": "とまる",
+    "meaning": "dừng lại",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "とまります",
+          "plain": "とまる"
+        },
+        "negative": {
+          "polite": "とまりません",
+          "plain": "とまらない"
+        },
+        "question": {
+          "polite": "とまりますか",
+          "plain": "とまる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "とまりました",
+          "plain": "とまった"
+        },
+        "negative": {
+          "polite": "とまりませんでした",
+          "plain": "とまらなかった"
+        },
+        "question": {
+          "polite": "とまりましたか",
+          "plain": "とまった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "とまれます",
+          "plain": "とまれる"
+        },
+        "negative": {
+          "polite": "とまれません",
+          "plain": "とまれない"
+        },
+        "question": {
+          "polite": "とまれますか",
+          "plain": "とまれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "とまれました",
+          "plain": "とまれた"
+        },
+        "negative": {
+          "polite": "とまれませんでした",
+          "plain": "とまれなかった"
+        },
+        "question": {
+          "polite": "とまれましたか",
+          "plain": "とまれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "車が止まります。",
+        "reading": "くるまがとまります。",
+        "vietnamese": "Xe dừng lại."
+      },
+      {
+        "japanese": "電車が止まらなかった。",
+        "reading": "でんしゃがとまらなかった。",
+        "vietnamese": "Đồng hồ đã dừng."
+      }
+    ],
+    "ba_form": "止まれば",
+    "ba_example": "ここに止まれば、いいです。",
+    "ta_form": "止まった",
+    "ta_example": "バスが止まった。"
+  },
+  {
+    "id": 33,
+    "kanji": "取る",
+    "reading": "とる",
+    "meaning": "lấy, chụp",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "とります",
+          "plain": "とる"
+        },
+        "negative": {
+          "polite": "とりません",
+          "plain": "とらない"
+        },
+        "question": {
+          "polite": "とりますか",
+          "plain": "とる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "とりました",
+          "plain": "とった"
+        },
+        "negative": {
+          "polite": "とりませんでした",
+          "plain": "とらなかった"
+        },
+        "question": {
+          "polite": "とりましたか",
+          "plain": "とった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "とれます",
+          "plain": "とれる"
+        },
+        "negative": {
+          "polite": "とれません",
+          "plain": "とれない"
+        },
+        "question": {
+          "polite": "とれますか",
+          "plain": "とれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "とれました",
+          "plain": "とれた"
+        },
+        "negative": {
+          "polite": "とれませんでした",
+          "plain": "とれなかった"
+        },
+        "question": {
+          "polite": "とれましたか",
+          "plain": "とれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "本を取ります。",
+        "reading": "ほんをとります。",
+        "vietnamese": "Lấy muối."
+      },
+      {
+        "japanese": "塩を取れますか。",
+        "reading": "しおをとれますか。",
+        "vietnamese": "Đã lấy kỳ nghỉ."
+      }
+    ],
+    "ba_form": "chụp)",
+    "ba_example": "取れば",
+    "ta_form": "写真を取れば、思い出になります。",
+    "ta_example": "取った"
+  },
+  {
+    "id": 34,
+    "kanji": "直す",
+    "reading": "なおす",
+    "meaning": "sửa chữa",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "なおします",
+          "plain": "なおす"
+        },
+        "negative": {
+          "polite": "なおしません",
+          "plain": "なおさない"
+        },
+        "question": {
+          "polite": "なおしますか",
+          "plain": "なおす？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "なおしました",
+          "plain": "なおした"
+        },
+        "negative": {
+          "polite": "なおしませんでした",
+          "plain": "なおさなかった"
+        },
+        "question": {
+          "polite": "なおしましたか",
+          "plain": "なおした？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "なおせます",
+          "plain": "なおせる"
+        },
+        "negative": {
+          "polite": "なおせません",
+          "plain": "なおせない"
+        },
+        "question": {
+          "polite": "なおせますか",
+          "plain": "なおせる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "なおせました",
+          "plain": "なおせた"
+        },
+        "negative": {
+          "polite": "なおせませんでした",
+          "plain": "なおせなかった"
+        },
+        "question": {
+          "polite": "なおせましたか",
+          "plain": "なおせた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "自転車を直します。",
+        "reading": "じてんしゃをなおします。",
+        "vietnamese": "Sửa xe đạp."
+      },
+      {
+        "japanese": "パソコンを直せなかった。",
+        "reading": "ぱそこんをなおせなかった。",
+        "vietnamese": "Đã không sửa được."
+      }
+    ],
+    "ba_form": "直せば",
+    "ba_example": "パソコンを直せば、使えます。",
+    "ta_form": "直した",
+    "ta_example": "父が自転車を直した。"
+  },
+  {
+    "id": 35,
+    "kanji": "泣く",
+    "reading": "なく",
+    "meaning": "khóc",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "なきます",
+          "plain": "なく"
+        },
+        "negative": {
+          "polite": "なきません",
+          "plain": "なかない"
+        },
+        "question": {
+          "polite": "なきますか",
+          "plain": "なく？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "なきました",
+          "plain": "ないた"
+        },
+        "negative": {
+          "polite": "なきませんでした",
+          "plain": "なかなかった"
+        },
+        "question": {
+          "polite": "なきましたか",
+          "plain": "ないた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "なけます",
+          "plain": "なける"
+        },
+        "negative": {
+          "polite": "なけません",
+          "plain": "なけない"
+        },
+        "question": {
+          "polite": "なけますか",
+          "plain": "なける？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "なけました",
+          "plain": "なけた"
+        },
+        "negative": {
+          "polite": "なけませんでした",
+          "plain": "なけなかった"
+        },
+        "question": {
+          "polite": "なけましたか",
+          "plain": "なけた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "赤ちゃんが泣きます。",
+        "reading": "あかちゃんがなきます。",
+        "vietnamese": "Em bé khóc."
+      },
+      {
+        "japanese": "昨日は泣かなかった。",
+        "reading": "きのうはなかなかった。",
+        "vietnamese": "Đã không khóc."
+      }
+    ],
+    "ba_form": "泣けば",
+    "ba_example": "映画を見て泣けば、すっきりします。",
+    "ta_form": "泣いた",
+    "ta_example": "赤ちゃんが泣いた。"
+  },
+  {
+    "id": 36,
+    "kanji": "なる",
+    "reading": "なる",
+    "meaning": "trở nên",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "なります",
+          "plain": "なる"
+        },
+        "negative": {
+          "polite": "なりません",
+          "plain": "ならない"
+        },
+        "question": {
+          "polite": "なりますか",
+          "plain": "なる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "なりました",
+          "plain": "なった"
+        },
+        "negative": {
+          "polite": "なりませんでした",
+          "plain": "ならなかった"
+        },
+        "question": {
+          "polite": "なりましたか",
+          "plain": "なった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "なれます",
+          "plain": "なれる"
+        },
+        "negative": {
+          "polite": "なれません",
+          "plain": "なれない"
+        },
+        "question": {
+          "polite": "なれますか",
+          "plain": "なれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "なれました",
+          "plain": "なれた"
+        },
+        "negative": {
+          "polite": "なれませんでした",
+          "plain": "なれなかった"
+        },
+        "question": {
+          "polite": "なれましたか",
+          "plain": "なれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "医者になります。",
+        "reading": "いしゃになります。",
+        "vietnamese": "Trở thành bác sĩ."
+      },
+      {
+        "japanese": "先生になれました。",
+        "reading": "せんせいになれました。",
+        "vietnamese": "Trời đã tối."
+      }
+    ],
+    "ba_form": "なれば",
+    "ba_example": "春になれば、暖かいです。",
+    "ta_form": "なった",
+    "ta_example": "兄は医者になった。"
+  },
+  {
+    "id": 37,
+    "kanji": "脱ぐ",
+    "reading": "ぬぐ",
+    "meaning": "cởi",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "ぬぎます",
+          "plain": "ぬぐ"
+        },
+        "negative": {
+          "polite": "ぬぎません",
+          "plain": "ぬがない"
+        },
+        "question": {
+          "polite": "ぬぎますか",
+          "plain": "ぬぐ？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "ぬぎました",
+          "plain": "ぬいだ"
+        },
+        "negative": {
+          "polite": "ぬぎませんでした",
+          "plain": "ぬがなかった"
+        },
+        "question": {
+          "polite": "ぬぎましたか",
+          "plain": "ぬいだ？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "ぬげます",
+          "plain": "ぬげる"
+        },
+        "negative": {
+          "polite": "ぬげません",
+          "plain": "ぬげない"
+        },
+        "question": {
+          "polite": "ぬげますか",
+          "plain": "ぬげる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "ぬげました",
+          "plain": "ぬげた"
+        },
+        "negative": {
+          "polite": "ぬげませんでした",
+          "plain": "ぬげなかった"
+        },
+        "question": {
+          "polite": "ぬげましたか",
+          "plain": "ぬげた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "靴を脱ぎます。",
+        "reading": "くつをぬぎます。",
+        "vietnamese": "Cởi giày."
+      },
+      {
+        "japanese": "ここでコートを脱がない。",
+        "reading": "ここでコートをぬがない。",
+        "vietnamese": "Đã không cởi áo khoác."
+      }
+    ],
+    "ba_form": "脱げば",
+    "ba_example": "靴を脱げば、部屋に入れます。",
+    "ta_form": "脱いだ",
+    "ta_example": "暑いですから、コートを脱いだ。"
+  },
+  {
+    "id": 38,
+    "kanji": "登る",
+    "reading": "のぼる",
+    "meaning": "leo",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "のぼります",
+          "plain": "のぼる"
+        },
+        "negative": {
+          "polite": "のぼりません",
+          "plain": "のぼらない"
+        },
+        "question": {
+          "polite": "のぼりますか",
+          "plain": "のぼる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "のぼりました",
+          "plain": "のぼった"
+        },
+        "negative": {
+          "polite": "のぼりませんでした",
+          "plain": "のぼらなかった"
+        },
+        "question": {
+          "polite": "のぼりましたか",
+          "plain": "のぼった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "のぼれます",
+          "plain": "のぼれる"
+        },
+        "negative": {
+          "polite": "のぼれません",
+          "plain": "のぼれない"
+        },
+        "question": {
+          "polite": "のぼれますか",
+          "plain": "のぼれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "のぼれました",
+          "plain": "のぼれた"
+        },
+        "negative": {
+          "polite": "のぼれませんでした",
+          "plain": "のぼれなかった"
+        },
+        "question": {
+          "polite": "のぼれましたか",
+          "plain": "のぼれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "山に登ります。",
+        "reading": "やまにのぼります。",
+        "vietnamese": "Leo núi."
+      },
+      {
+        "japanese": "富士山に登れなかった。",
+        "reading": "ふじさんにのぼれなかった。",
+        "vietnamese": "Đã không leo được."
+      }
+    ],
+    "ba_form": "登れば",
+    "ba_example": "山に登れば、景色がいいです。",
+    "ta_form": "登った",
+    "ta_example": "家族と富士山に登った。"
+  },
+  {
+    "id": 39,
+    "kanji": "飲む",
+    "reading": "のむ",
+    "meaning": "uống",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "のみます",
+          "plain": "のむ"
+        },
+        "negative": {
+          "polite": "のみません",
+          "plain": "のまない"
+        },
+        "question": {
+          "polite": "のみますか",
+          "plain": "のむ？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "のみました",
+          "plain": "のんだ"
+        },
+        "negative": {
+          "polite": "のみませんでした",
+          "plain": "のまなかった"
+        },
+        "question": {
+          "polite": "のみましたか",
+          "plain": "のんだ？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "のめます",
+          "plain": "のめる"
+        },
+        "negative": {
+          "polite": "のめません",
+          "plain": "のめない"
+        },
+        "question": {
+          "polite": "のめますか",
+          "plain": "のめる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "のめました",
+          "plain": "のめた"
+        },
+        "negative": {
+          "polite": "のめませんでした",
+          "plain": "のめなかった"
+        },
+        "question": {
+          "polite": "のめましたか",
+          "plain": "のめた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "牛乳を飲みます。",
+        "reading": "ぎゅうにゅうをのみます。",
+        "vietnamese": "Uống nước."
+      },
+      {
+        "japanese": "お酒が飲めない。",
+        "reading": "おさけがのめない。",
+        "vietnamese": "Đã không uống thuốc."
+      }
+    ],
+    "ba_form": "飲めば",
+    "ba_example": "薬を飲めば、元気になります。",
+    "ta_form": "飲んだ",
+    "ta_example": "冷たい水を飲んだ。"
+  },
+  {
+    "id": 40,
+    "kanji": "乗る",
+    "reading": "のる",
+    "meaning": "lên (xe)",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "のります",
+          "plain": "のる"
+        },
+        "negative": {
+          "polite": "のりません",
+          "plain": "のらない"
+        },
+        "question": {
+          "polite": "のりますか",
+          "plain": "のる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "のりました",
+          "plain": "のった"
+        },
+        "negative": {
+          "polite": "のりませんでした",
+          "plain": "のらなかった"
+        },
+        "question": {
+          "polite": "のりましたか",
+          "plain": "のった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "のれます",
+          "plain": "のれる"
+        },
+        "negative": {
+          "polite": "のれません",
+          "plain": "のれない"
+        },
+        "question": {
+          "polite": "のれますか",
+          "plain": "のれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "のれました",
+          "plain": "のれた"
+        },
+        "negative": {
+          "polite": "のれませんでした",
+          "plain": "のれなかった"
+        },
+        "question": {
+          "polite": "のれましたか",
+          "plain": "のれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "バスに乗ります。",
+        "reading": "ばすにのります。",
+        "vietnamese": "Lên xe buýt."
+      },
+      {
+        "japanese": "タクシーに乗らなかった。",
+        "reading": "タクシーにのらなかった。",
+        "vietnamese": "Đã không lên tàu."
+      }
+    ],
+    "ba_form": "乗れば",
+    "ba_example": "タクシーに乗れば、早いです。",
+    "ta_form": "乗った",
+    "ta_example": "毎朝、電車に乗った。"
+  },
+  {
+    "id": 41,
+    "kanji": "入る",
+    "reading": "はいる",
+    "meaning": "vào",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "はいります",
+          "plain": "はいる"
+        },
+        "negative": {
+          "polite": "はいりません",
+          "plain": "はいらない"
+        },
+        "question": {
+          "polite": "はいりますか",
+          "plain": "はいる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "はいりました",
+          "plain": "はいった"
+        },
+        "negative": {
+          "polite": "はいりませんでした",
+          "plain": "はいらなかった"
+        },
+        "question": {
+          "polite": "はいりましたか",
+          "plain": "はいった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "はいれます",
+          "plain": "はいれる"
+        },
+        "negative": {
+          "polite": "はいれません",
+          "plain": "はいれない"
+        },
+        "question": {
+          "polite": "はいれますか",
+          "plain": "はいれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "はいれました",
+          "plain": "はいれた"
+        },
+        "negative": {
+          "polite": "はいれませんでした",
+          "plain": "はいれなかった"
+        },
+        "question": {
+          "polite": "はいれましたか",
+          "plain": "はいれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "喫茶店に入ります。",
+        "reading": "きっさてんにはいります。",
+        "vietnamese": "Vào phòng."
+      },
+      {
+        "japanese": "温泉に入れた。",
+        "reading": "おんせんにはいれた。",
+        "vietnamese": "Không được vào."
+      }
+    ],
+    "ba_form": "入れば",
+    "ba_example": "喫茶店に入れば、休みます。",
+    "ta_form": "入った",
+    "ta_example": "温かいお風呂に入った。"
+  },
+  {
+    "id": 42,
+    "kanji": "履く",
+    "reading": "はく",
+    "meaning": "mặc (quần, giày)",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "はきます",
+          "plain": "はく"
+        },
+        "negative": {
+          "polite": "はきません",
+          "plain": "はかない"
+        },
+        "question": {
+          "polite": "はきますか",
+          "plain": "はく？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "はきました",
+          "plain": "はいた"
+        },
+        "negative": {
+          "polite": "はきませんでした",
+          "plain": "はかなかった"
+        },
+        "question": {
+          "polite": "はきましたか",
+          "plain": "はいた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "はけます",
+          "plain": "はける"
+        },
+        "negative": {
+          "polite": "はけません",
+          "plain": "はけない"
+        },
+        "question": {
+          "polite": "はけますか",
+          "plain": "はける？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "はけました",
+          "plain": "はけた"
+        },
+        "negative": {
+          "polite": "はけませんでした",
+          "plain": "はけなかった"
+        },
+        "question": {
+          "polite": "はけましたか",
+          "plain": "はけた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "靴を履きます。",
+        "reading": "くつをはきます。",
+        "vietnamese": "Mang giày."
+      },
+      {
+        "japanese": "その靴を履かなかった。",
+        "reading": "そのくつをはかなかった。",
+        "vietnamese": "Đã mang giày mới."
+      }
+    ],
+    "ba_form": "mang)",
+    "ba_example": "履けば",
+    "ta_form": "新しい靴を履けば、外に出ます。",
+    "ta_example": "履いた"
+  },
+  {
+    "id": 43,
+    "kanji": "働く",
+    "reading": "はたらく",
+    "meaning": "làm việc",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "はたらきます",
+          "plain": "はたらく"
+        },
+        "negative": {
+          "polite": "はたらきません",
+          "plain": "はたらかない"
+        },
+        "question": {
+          "polite": "はたらきますか",
+          "plain": "はたらく？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "はたらきました",
+          "plain": "はたらいた"
+        },
+        "negative": {
+          "polite": "はたらきませんでした",
+          "plain": "はたらかなかった"
+        },
+        "question": {
+          "polite": "はたらきましたか",
+          "plain": "はたらいた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "はたらけます",
+          "plain": "はたらける"
+        },
+        "negative": {
+          "polite": "はたらけません",
+          "plain": "はたらけない"
+        },
+        "question": {
+          "polite": "はたらけますか",
+          "plain": "はたらける？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "はたらけました",
+          "plain": "はたらけた"
+        },
+        "negative": {
+          "polite": "はたらけませんでした",
+          "plain": "はたらけなかった"
+        },
+        "question": {
+          "polite": "はたらけましたか",
+          "plain": "はたらけた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "銀行で働きます。",
+        "reading": "ぎんこうではたらきます。",
+        "vietnamese": "Làm việc ở công ty."
+      },
+      {
+        "japanese": "今日は働かない。",
+        "reading": "きょうははたらかない。",
+        "vietnamese": "Hôm qua đã không làm việc."
+      }
+    ],
+    "ba_form": "働けば",
+    "ba_example": "たくさん働けば、疲れます。",
+    "ta_form": "働いた",
+    "ta_example": "５年間、銀行で働いた。"
+  },
+  {
+    "id": 44,
+    "kanji": "話す",
+    "reading": "はなす",
+    "meaning": "nói chuyện",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "はなします",
+          "plain": "はなす"
+        },
+        "negative": {
+          "polite": "はなしません",
+          "plain": "はなさない"
+        },
+        "question": {
+          "polite": "はなしますか",
+          "plain": "はなす？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "はなしました",
+          "plain": "はなした"
+        },
+        "negative": {
+          "polite": "はなしませんでした",
+          "plain": "はなさなかった"
+        },
+        "question": {
+          "polite": "はなしましたか",
+          "plain": "はなした？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "はなせます",
+          "plain": "はなせる"
+        },
+        "negative": {
+          "polite": "はなせません",
+          "plain": "はなせない"
+        },
+        "question": {
+          "polite": "はなせますか",
+          "plain": "はなせる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "はなせました",
+          "plain": "はなせた"
+        },
+        "negative": {
+          "polite": "はなせませんでした",
+          "plain": "はなせなかった"
+        },
+        "question": {
+          "polite": "はなせましたか",
+          "plain": "はなせた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "先生と話します。",
+        "reading": "せんせいとはなします。",
+        "vietnamese": "Nói chuyện với bạn."
+      },
+      {
+        "japanese": "英語が話せますか。",
+        "reading": "えいごがはなせますか。",
+        "vietnamese": "Đã không nói với ai."
+      }
+    ],
+    "ba_form": "話せば",
+    "ba_example": "日本語で話せば、上手になります。",
+    "ta_form": "話した",
+    "ta_example": "友達と電話で話した。"
+  },
+  {
+    "id": 45,
+    "kanji": "払う",
+    "reading": "はらう",
+    "meaning": "trả tiền",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "はらいます",
+          "plain": "はらう"
+        },
+        "negative": {
+          "polite": "はらいません",
+          "plain": "はらわない"
+        },
+        "question": {
+          "polite": "はらいますか",
+          "plain": "はらう？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "はらいました",
+          "plain": "はらった"
+        },
+        "negative": {
+          "polite": "はらいませんでした",
+          "plain": "はらわなかった"
+        },
+        "question": {
+          "polite": "はらいましたか",
+          "plain": "はらった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "はらえます",
+          "plain": "はらえる"
+        },
+        "negative": {
+          "polite": "はらえません",
+          "plain": "はらえない"
+        },
+        "question": {
+          "polite": "はらえますか",
+          "plain": "はらえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "はらえました",
+          "plain": "はらえた"
+        },
+        "negative": {
+          "polite": "はらえませんでした",
+          "plain": "はらえなかった"
+        },
+        "question": {
+          "polite": "はらえましたか",
+          "plain": "はらえた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "お金を払います。",
+        "reading": "おかねをはらいます。",
+        "vietnamese": "Trả tiền."
+      },
+      {
+        "japanese": "カードで払える？",
+        "reading": "カードではらえる？",
+        "vietnamese": "Đã không trả tiền."
+      }
+    ],
+    "ba_form": "払えば",
+    "ba_example": "お金を払えば、帰ります。",
+    "ta_form": "払った",
+    "ta_example": "レジで１０００円払った。"
+  },
+  {
+    "id": 46,
+    "kanji": "引く",
+    "reading": "ひく",
+    "meaning": "kéo, chơi nhạc cụ",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "ひきます",
+          "plain": "ひく"
+        },
+        "negative": {
+          "polite": "ひきません",
+          "plain": "ひかない"
+        },
+        "question": {
+          "polite": "ひきますか",
+          "plain": "ひく？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "ひきました",
+          "plain": "ひいた"
+        },
+        "negative": {
+          "polite": "ひきませんでした",
+          "plain": "ひかなかった"
+        },
+        "question": {
+          "polite": "ひきましたか",
+          "plain": "ひいた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "ひけます",
+          "plain": "ひける"
+        },
+        "negative": {
+          "polite": "ひけません",
+          "plain": "ひけない"
+        },
+        "question": {
+          "polite": "ひけますか",
+          "plain": "ひける？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "ひけました",
+          "plain": "ひけた"
+        },
+        "negative": {
+          "polite": "ひけませんでした",
+          "plain": "ひけなかった"
+        },
+        "question": {
+          "polite": "ひけましたか",
+          "plain": "ひけた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "ドアを引きます。",
+        "reading": "どあをひきます。",
+        "vietnamese": "Kéo cửa."
+      },
+      {
+        "japanese": "線を引かなかった。",
+        "reading": "せんをひかなかった。",
+        "vietnamese": "Bị cảm."
+      }
+    ],
+    "ba_form": "chơi)",
+    "ba_example": "引けば",
+    "ta_form": "ドアを引けば、開きます。",
+    "ta_example": "引いた"
+  },
+  {
+    "id": 47,
+    "kanji": "降る",
+    "reading": "ふる",
+    "meaning": "rơi (mưa, tuyết)",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "ふります",
+          "plain": "ふる"
+        },
+        "negative": {
+          "polite": "ふりません",
+          "plain": "ふらない"
+        },
+        "question": {
+          "polite": "ふりますか",
+          "plain": "ふる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "ふりました",
+          "plain": "ふった"
+        },
+        "negative": {
+          "polite": "ふりませんでした",
+          "plain": "ふらなかった"
+        },
+        "question": {
+          "polite": "ふりましたか",
+          "plain": "ふった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "ふれます",
+          "plain": "ふれる"
+        },
+        "negative": {
+          "polite": "ふれません",
+          "plain": "ふれない"
+        },
+        "question": {
+          "polite": "ふれますか",
+          "plain": "ふれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "ふれました",
+          "plain": "ふれた"
+        },
+        "negative": {
+          "polite": "ふれませんでした",
+          "plain": "ふれなかった"
+        },
+        "question": {
+          "polite": "ふれましたか",
+          "plain": "ふれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "雨が降ります。",
+        "reading": "あめがふります。",
+        "vietnamese": "Trời mưa."
+      },
+      {
+        "japanese": "昨日は雪が降った。",
+        "reading": "きのうはゆきがふった。",
+        "vietnamese": "Tuyết không rơi."
+      }
+    ],
+    "ba_form": "降れば",
+    "ba_example": "雨が降れば、行きません。",
+    "ta_form": "降った",
+    "ta_example": "昨日、雪が降った。"
+  },
+  {
+    "id": 48,
+    "kanji": "曲がる",
+    "reading": "まがる",
+    "meaning": "rẽ",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "まがります",
+          "plain": "まがる"
+        },
+        "negative": {
+          "polite": "まがりません",
+          "plain": "まがらない"
+        },
+        "question": {
+          "polite": "まがりますか",
+          "plain": "まがる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "まがりました",
+          "plain": "まがった"
+        },
+        "negative": {
+          "polite": "まがりませんでした",
+          "plain": "まがらなかった"
+        },
+        "question": {
+          "polite": "まがりましたか",
+          "plain": "まがった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "まがれます",
+          "plain": "まがれる"
+        },
+        "negative": {
+          "polite": "まがれません",
+          "plain": "まがれない"
+        },
+        "question": {
+          "polite": "まがれますか",
+          "plain": "まがれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "まがれました",
+          "plain": "まがれた"
+        },
+        "negative": {
+          "polite": "まがれませんでした",
+          "plain": "まがれなかった"
+        },
+        "question": {
+          "polite": "まがれましたか",
+          "plain": "まがれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "右に曲がります。",
+        "reading": "みぎにまがります。",
+        "vietnamese": "Rẽ phải."
+      },
+      {
+        "japanese": "左に曲がらなかった。",
+        "reading": "ひだりにまがらなかった。",
+        "vietnamese": "Rẽ trái ở ngã tư."
+      }
+    ],
+    "ba_form": "曲がれば",
+    "ba_example": "右へ曲がれば、郵便局があります。",
+    "ta_form": "曲がった",
+    "ta_example": "角を左に曲がった。"
+  },
+  {
+    "id": 49,
+    "kanji": "待つ",
+    "reading": "まつ",
+    "meaning": "đợi",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "まちます",
+          "plain": "まつ"
+        },
+        "negative": {
+          "polite": "まちません",
+          "plain": "またない"
+        },
+        "question": {
+          "polite": "まちますか",
+          "plain": "まつ？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "まちました",
+          "plain": "まった"
+        },
+        "negative": {
+          "polite": "まちませんでした",
+          "plain": "またなかった"
+        },
+        "question": {
+          "polite": "まちましたか",
+          "plain": "まった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "まてます",
+          "plain": "まてる"
+        },
+        "negative": {
+          "polite": "まてません",
+          "plain": "まてない"
+        },
+        "question": {
+          "polite": "まてますか",
+          "plain": "まてる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "まてました",
+          "plain": "まてた"
+        },
+        "negative": {
+          "polite": "まてませんでした",
+          "plain": "まてなかった"
+        },
+        "question": {
+          "polite": "まてましたか",
+          "plain": "まてた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "友達を待ちます。",
+        "reading": "ともだちをまちます。",
+        "vietnamese": "Đợi bạn."
+      },
+      {
+        "japanese": "ここで待てる？",
+        "reading": "ここでまてる？",
+        "vietnamese": "Đã đợi 30 phút."
+      }
+    ],
+    "ba_form": "待てば",
+    "ba_example": "５分待てば、バスが来ます。",
+    "ta_form": "待った",
+    "ta_example": "駅で１時間待った。"
+  },
+  {
+    "id": 50,
+    "kanji": "持つ",
+    "reading": "もつ",
+    "meaning": "mang, cầm",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "もちます",
+          "plain": "もつ"
+        },
+        "negative": {
+          "polite": "もちません",
+          "plain": "もたない"
+        },
+        "question": {
+          "polite": "もちますか",
+          "plain": "もつ？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "もちました",
+          "plain": "もった"
+        },
+        "negative": {
+          "polite": "もちませんでした",
+          "plain": "もたなかった"
+        },
+        "question": {
+          "polite": "もちましたか",
+          "plain": "もった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "もてます",
+          "plain": "もてる"
+        },
+        "negative": {
+          "polite": "もてません",
+          "plain": "もてない"
+        },
+        "question": {
+          "polite": "もてますか",
+          "plain": "もてる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "もてました",
+          "plain": "もてた"
+        },
+        "negative": {
+          "polite": "もてませんでした",
+          "plain": "もてなかった"
+        },
+        "question": {
+          "polite": "もてましたか",
+          "plain": "もてた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "カバンを持ちます。",
+        "reading": "かばんをもちます。",
+        "vietnamese": "Cầm túi."
+      },
+      {
+        "japanese": "重くて持てない。",
+        "reading": "おもくてもてない。",
+        "vietnamese": "Không có ô."
+      }
+    ],
+    "ba_form": "cầm)",
+    "ba_example": "持てば",
+    "ta_form": "荷物を持てば、重いです。",
+    "ta_example": "持った"
+  },
+  {
+    "id": 51,
+    "kanji": "貰う",
+    "reading": "もらう",
+    "meaning": "nhận",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "もらいます",
+          "plain": "もらう"
+        },
+        "negative": {
+          "polite": "もらいません",
+          "plain": "もらわない"
+        },
+        "question": {
+          "polite": "もらいますか",
+          "plain": "もらう？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "もらいました",
+          "plain": "もらった"
+        },
+        "negative": {
+          "polite": "もらいませんでした",
+          "plain": "もらわなかった"
+        },
+        "question": {
+          "polite": "もらいましたか",
+          "plain": "もらった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "もらえます",
+          "plain": "もらえる"
+        },
+        "negative": {
+          "polite": "もらえません",
+          "plain": "もらえない"
+        },
+        "question": {
+          "polite": "もらえますか",
+          "plain": "もらえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "もらえました",
+          "plain": "もらえた"
+        },
+        "negative": {
+          "polite": "もらえませんでした",
+          "plain": "もらえなかった"
+        },
+        "question": {
+          "polite": "もらえましたか",
+          "plain": "もらえた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "時計を貰います。",
+        "reading": "とけいをもらいます。",
+        "vietnamese": "Nhận đồng hồ."
+      },
+      {
+        "japanese": "プレゼントを貰った。",
+        "reading": "プレゼントをもらった。",
+        "vietnamese": "Đã được nhận quà."
+      }
+    ],
+    "ba_form": "貰えば",
+    "ba_example": "プレゼントを貰えば、嬉しいです。",
+    "ta_form": "貰った",
+    "ta_example": "誕生日にお金を貰った。"
+  },
+  {
+    "id": 52,
+    "kanji": "休む",
+    "reading": "やすむ",
+    "meaning": "nghỉ ngơi",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "やすみます",
+          "plain": "やすむ"
+        },
+        "negative": {
+          "polite": "やすみません",
+          "plain": "やすまない"
+        },
+        "question": {
+          "polite": "やすみますか",
+          "plain": "やすむ？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "やすみました",
+          "plain": "やすんだ"
+        },
+        "negative": {
+          "polite": "やすみませんでした",
+          "plain": "やすまなかった"
+        },
+        "question": {
+          "polite": "やすみましたか",
+          "plain": "やすんだ？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "やすめます",
+          "plain": "やすめる"
+        },
+        "negative": {
+          "polite": "やすめません",
+          "plain": "やすめない"
+        },
+        "question": {
+          "polite": "やすめますか",
+          "plain": "やすめる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "やすめました",
+          "plain": "やすめた"
+        },
+        "negative": {
+          "polite": "やすめませんでした",
+          "plain": "やすめなかった"
+        },
+        "question": {
+          "polite": "やすめましたか",
+          "plain": "やすめた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "会社を休みます。",
+        "reading": "かいしゃをやすみます。",
+        "vietnamese": "Nghỉ ngơi."
+      },
+      {
+        "japanese": "明日は休めない。",
+        "reading": "あしたはやすめない。",
+        "vietnamese": "Hôm qua đã nghỉ học."
+      }
+    ],
+    "ba_form": "休めば",
+    "ba_example": "薬を飲んで休めば、よくなります。",
+    "ta_form": "休んだ",
+    "ta_example": "風邪で会社を休んだ。"
+  },
+  {
+    "id": 53,
+    "kanji": "やる",
+    "reading": "やる",
+    "meaning": "làm",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "やります",
+          "plain": "やる"
+        },
+        "negative": {
+          "polite": "やりません",
+          "plain": "やらない"
+        },
+        "question": {
+          "polite": "やりますか",
+          "plain": "やる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "やりました",
+          "plain": "やった"
+        },
+        "negative": {
+          "polite": "やりませんでした",
+          "plain": "やらなかった"
+        },
+        "question": {
+          "polite": "やりましたか",
+          "plain": "やった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "やれます",
+          "plain": "やれる"
+        },
+        "negative": {
+          "polite": "やれません",
+          "plain": "やれない"
+        },
+        "question": {
+          "polite": "やれますか",
+          "plain": "やれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "やれました",
+          "plain": "やれた"
+        },
+        "negative": {
+          "polite": "やれませんでした",
+          "plain": "やれなかった"
+        },
+        "question": {
+          "polite": "やれましたか",
+          "plain": "やれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "宿題をやります。",
+        "reading": "しゅくだいをやります。",
+        "vietnamese": "Làm bài tập."
+      },
+      {
+        "japanese": "ゲームをやった。",
+        "reading": "ゲームをやった。",
+        "vietnamese": "Đã không làm gì cả."
+      }
+    ],
+    "ba_form": "やれば",
+    "ba_example": "宿題をやれば、遊びます。",
+    "ta_form": "やった",
+    "ta_example": "昨日の夜、テストをやった。"
+  },
+  {
+    "id": 54,
+    "kanji": "呼ぶ",
+    "reading": "よぶ",
+    "meaning": "gọi",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "よびます",
+          "plain": "よぶ"
+        },
+        "negative": {
+          "polite": "よびません",
+          "plain": "よばない"
+        },
+        "question": {
+          "polite": "よびますか",
+          "plain": "よぶ？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "よびました",
+          "plain": "よんだ"
+        },
+        "negative": {
+          "polite": "よびませんでした",
+          "plain": "よばなかった"
+        },
+        "question": {
+          "polite": "よびましたか",
+          "plain": "よんだ？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "よべます",
+          "plain": "よべる"
+        },
+        "negative": {
+          "polite": "よべません",
+          "plain": "よべない"
+        },
+        "question": {
+          "polite": "よべますか",
+          "plain": "よべる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "よべました",
+          "plain": "よべた"
+        },
+        "negative": {
+          "polite": "よべませんでした",
+          "plain": "よべなかった"
+        },
+        "question": {
+          "polite": "よべましたか",
+          "plain": "よべた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "友達を呼びます。",
+        "reading": "ともだちをよびます。",
+        "vietnamese": "Gọi taxi."
+      },
+      {
+        "japanese": "タクシーを呼べますか。",
+        "reading": "タクシーをよべますか。",
+        "vietnamese": "Đã gọi tên bạn."
+      }
+    ],
+    "ba_form": "呼べば",
+    "ba_example": "タクシーを呼べば、すぐ来ます。",
+    "ta_form": "呼んだ",
+    "ta_example": "パーティーに友達を呼んだ。"
+  },
+  {
+    "id": 55,
+    "kanji": "読む",
+    "reading": "よむ",
+    "meaning": "đọc",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "よみます",
+          "plain": "よむ"
+        },
+        "negative": {
+          "polite": "よみません",
+          "plain": "よまない"
+        },
+        "question": {
+          "polite": "よみますか",
+          "plain": "よむ？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "よみました",
+          "plain": "よんだ"
+        },
+        "negative": {
+          "polite": "よみませんでした",
+          "plain": "よまなかった"
+        },
+        "question": {
+          "polite": "よみましたか",
+          "plain": "よんだ？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "よめます",
+          "plain": "よめる"
+        },
+        "negative": {
+          "polite": "よめません",
+          "plain": "よめない"
+        },
+        "question": {
+          "polite": "よめますか",
+          "plain": "よめる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "よめました",
+          "plain": "よめた"
+        },
+        "negative": {
+          "polite": "よめませんでした",
+          "plain": "よめなかった"
+        },
+        "question": {
+          "polite": "よめましたか",
+          "plain": "よめた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "本を読みます。",
+        "reading": "ほんをよみます。",
+        "vietnamese": "Đọc sách."
+      },
+      {
+        "japanese": "漢字が読めない。",
+        "reading": "かんじがよめない。",
+        "vietnamese": "Đã không đọc báo."
+      }
+    ],
+    "ba_form": "読めば",
+    "ba_example": "本を読めば、わかります。",
+    "ta_form": "読んだ",
+    "ta_example": "毎朝、新聞を読んだ。"
+  },
+  {
+    "id": 56,
+    "kanji": "分かる",
+    "reading": "わかる",
+    "meaning": "hiểu",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "わかります",
+          "plain": "わかる"
+        },
+        "negative": {
+          "polite": "わかりません",
+          "plain": "わからない"
+        },
+        "question": {
+          "polite": "わかりますか",
+          "plain": "わかる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "わかりました",
+          "plain": "わかった"
+        },
+        "negative": {
+          "polite": "わかりませんでした",
+          "plain": "わからなかった"
+        },
+        "question": {
+          "polite": "わかりましたか",
+          "plain": "わかった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "わかれます",
+          "plain": "わかれる"
+        },
+        "negative": {
+          "polite": "わかれません",
+          "plain": "わかれない"
+        },
+        "question": {
+          "polite": "わかれますか",
+          "plain": "わかれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "わかれました",
+          "plain": "わかれた"
+        },
+        "negative": {
+          "polite": "わかれませんでした",
+          "plain": "わかれなかった"
+        },
+        "question": {
+          "polite": "わかれましたか",
+          "plain": "わかれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "日本語が分かります。",
+        "reading": "にほんごがわかります。",
+        "vietnamese": "Hiểu rồi."
+      },
+      {
+        "japanese": "英語が分からなかった。",
+        "reading": "えいごがわからなかった。",
+        "vietnamese": "Không hiểu tiếng Nhật."
+      }
+    ],
+    "ba_form": "分かれば",
+    "ba_example": "説明を聞けば、分かります。",
+    "ta_form": "分かった",
+    "ta_example": "漢字の意味が分かった。"
+  },
+  {
+    "id": 57,
+    "kanji": "渡る",
+    "reading": "わたる",
+    "meaning": "băng qua",
+    "group": 1,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "わたります",
+          "plain": "わたる"
+        },
+        "negative": {
+          "polite": "わたりません",
+          "plain": "わたらない"
+        },
+        "question": {
+          "polite": "わたりますか",
+          "plain": "わたる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "わたりました",
+          "plain": "わたった"
+        },
+        "negative": {
+          "polite": "わたりませんでした",
+          "plain": "わたらなかった"
+        },
+        "question": {
+          "polite": "わたりましたか",
+          "plain": "わたった？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "わたれます",
+          "plain": "わたれる"
+        },
+        "negative": {
+          "polite": "わたれません",
+          "plain": "わたれない"
+        },
+        "question": {
+          "polite": "わたれますか",
+          "plain": "わたれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "わたれました",
+          "plain": "わたれた"
+        },
+        "negative": {
+          "polite": "わたれませんでした",
+          "plain": "わたれなかった"
+        },
+        "question": {
+          "polite": "わたれましたか",
+          "plain": "わたれた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "道を渡ります。",
+        "reading": "みちをわたります。",
+        "vietnamese": "Sang đường."
+      },
+      {
+        "japanese": "川を渡れた。",
+        "reading": "かわをわたれた。",
+        "vietnamese": "Đã qua cầu."
+      }
+    ],
+    "ba_form": "渡れば",
+    "ba_example": "橋を渡れば、公園があります。",
+    "ta_form": "渡った",
+    "ta_example": "広い道を渡った。"
+  },
+  {
+    "id": 58,
+    "kanji": "開ける",
+    "reading": "あける",
+    "meaning": "mở",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "あけます",
+          "plain": "あける"
+        },
+        "negative": {
+          "polite": "あけません",
+          "plain": "あけない"
+        },
+        "question": {
+          "polite": "あけますか",
+          "plain": "あける？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あけました",
+          "plain": "あけた"
+        },
+        "negative": {
+          "polite": "あけませんでした",
+          "plain": "あけなかった"
+        },
+        "question": {
+          "polite": "あけましたか",
+          "plain": "あけた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "あけられます",
+          "plain": "あけられる"
+        },
+        "negative": {
+          "polite": "あけられません",
+          "plain": "あけられない"
+        },
+        "question": {
+          "polite": "あけられますか",
+          "plain": "あけられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あけられました",
+          "plain": "あけられた"
+        },
+        "negative": {
+          "polite": "あけられませんでした",
+          "plain": "あけられなかった"
+        },
+        "question": {
+          "polite": "あけられましたか",
+          "plain": "あけられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "窓を開けます。",
+        "reading": "まどをあけます。",
+        "vietnamese": "Mở cửa."
+      },
+      {
+        "japanese": "ドアが開けられない。",
+        "reading": "ドアがあけられない。",
+        "vietnamese": "Đã không mở cửa sổ."
+      }
+    ],
+    "ba_form": "開ければ",
+    "ba_example": "窓を開ければ、涼しいです。",
+    "ta_form": "開けた",
+    "ta_example": "暑いから、ドアを開けた。"
+  },
+  {
+    "id": 59,
+    "kanji": "上げる",
+    "reading": "あげる",
+    "meaning": "cho, tặng",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "あげます",
+          "plain": "あげる"
+        },
+        "negative": {
+          "polite": "あげません",
+          "plain": "あげない"
+        },
+        "question": {
+          "polite": "あげますか",
+          "plain": "あげる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あげました",
+          "plain": "あげた"
+        },
+        "negative": {
+          "polite": "あげませんでした",
+          "plain": "あげなかった"
+        },
+        "question": {
+          "polite": "あげましたか",
+          "plain": "あげた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "あげられます",
+          "plain": "あげられる"
+        },
+        "negative": {
+          "polite": "あげられません",
+          "plain": "あげられない"
+        },
+        "question": {
+          "polite": "あげられますか",
+          "plain": "あげられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あげられました",
+          "plain": "あげられた"
+        },
+        "negative": {
+          "polite": "あげられませんでした",
+          "plain": "あげられなかった"
+        },
+        "question": {
+          "polite": "あげられましたか",
+          "plain": "あげられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "手を上げます。",
+        "reading": "てをあげます。",
+        "vietnamese": "Giơ tay lên."
+      },
+      {
+        "japanese": "荷物を上げなかった。",
+        "reading": "にもつをあげなかった。",
+        "vietnamese": "Đã cho bạn quà."
+      }
+    ],
+    "ba_form": "tặng)",
+    "ba_example": "上げれば",
+    "ta_form": "花を上げれば、母は喜びます。",
+    "ta_example": "上げた"
+  },
+  {
+    "id": 60,
+    "kanji": "集める",
+    "reading": "あつめる",
+    "meaning": "sưu tầm",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "あつめます",
+          "plain": "あつめる"
+        },
+        "negative": {
+          "polite": "あつめません",
+          "plain": "あつめない"
+        },
+        "question": {
+          "polite": "あつめますか",
+          "plain": "あつめる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あつめました",
+          "plain": "あつめた"
+        },
+        "negative": {
+          "polite": "あつめませんでした",
+          "plain": "あつめなかった"
+        },
+        "question": {
+          "polite": "あつめましたか",
+          "plain": "あつめた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "あつめられます",
+          "plain": "あつめられる"
+        },
+        "negative": {
+          "polite": "あつめられません",
+          "plain": "あつめられない"
+        },
+        "question": {
+          "polite": "あつめられますか",
+          "plain": "あつめられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あつめられました",
+          "plain": "あつめられた"
+        },
+        "negative": {
+          "polite": "あつめられませんでした",
+          "plain": "あつめられなかった"
+        },
+        "question": {
+          "polite": "あつめられましたか",
+          "plain": "あつめられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "お金を集めます。",
+        "reading": "おかねをあつめます。",
+        "vietnamese": "Thu thập tiền."
+      },
+      {
+        "japanese": "切手を集められた。",
+        "reading": "きってをあつめられた。",
+        "vietnamese": "Sưu tầm tem."
+      }
+    ],
+    "ba_form": "集めれば",
+    "ba_example": "切手を集めれば、楽しいです。",
+    "ta_form": "集めた",
+    "ta_example": "公園でゴミを集めた。"
+  },
+  {
+    "id": 61,
+    "kanji": "浴びる",
+    "reading": "あびる",
+    "meaning": "tắm",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "あびます",
+          "plain": "あびる"
+        },
+        "negative": {
+          "polite": "あびません",
+          "plain": "あびない"
+        },
+        "question": {
+          "polite": "あびますか",
+          "plain": "あびる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あびました",
+          "plain": "あびた"
+        },
+        "negative": {
+          "polite": "あびませんでした",
+          "plain": "あびなかった"
+        },
+        "question": {
+          "polite": "あびましたか",
+          "plain": "あびた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "あびられます",
+          "plain": "あびられる"
+        },
+        "negative": {
+          "polite": "あびられません",
+          "plain": "あびられない"
+        },
+        "question": {
+          "polite": "あびられますか",
+          "plain": "あびられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "あびられました",
+          "plain": "あびられた"
+        },
+        "negative": {
+          "polite": "あびられませんでした",
+          "plain": "あびられなかった"
+        },
+        "question": {
+          "polite": "あびられましたか",
+          "plain": "あびられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "シャワーを浴びます。",
+        "reading": "シャワーをあびます。",
+        "vietnamese": "Tắm vòi sen."
+      },
+      {
+        "japanese": "お風呂を浴びない。",
+        "reading": "おふろをあびない。",
+        "vietnamese": "Sáng nay đã không tắm."
+      }
+    ],
+    "ba_form": "浴びれば",
+    "ba_example": "シャワーを浴びれば、気持ちいいです。",
+    "ta_form": "浴びた",
+    "ta_example": "朝、シャワーを浴びた。"
+  },
+  {
+    "id": 62,
+    "kanji": "あり得る",
+    "reading": "ありえる",
+    "meaning": "có thể (có, xảy ra)",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "ありえます",
+          "plain": "ありえる"
+        },
+        "negative": {
+          "polite": "ありえません",
+          "plain": "ありえない"
+        },
+        "question": {
+          "polite": "ありえますか",
+          "plain": "ありえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "ありえました",
+          "plain": "ありえた"
+        },
+        "negative": {
+          "polite": "ありえませんでした",
+          "plain": "ありえなかった"
+        },
+        "question": {
+          "polite": "ありえましたか",
+          "plain": "ありえた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "ありえられます",
+          "plain": "ありえられる"
+        },
+        "negative": {
+          "polite": "ありえられません",
+          "plain": "ありえられない"
+        },
+        "question": {
+          "polite": "ありえられますか",
+          "plain": "ありえられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "ありえられました",
+          "plain": "ありえられた"
+        },
+        "negative": {
+          "polite": "ありえられませんでした",
+          "plain": "ありえられなかった"
+        },
+        "question": {
+          "polite": "ありえられましたか",
+          "plain": "ありえられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "それはあり得ます。",
+        "reading": "それはありえます。",
+        "vietnamese": "Điều đó có thể xảy ra."
+      },
+      {
+        "japanese": "そんなことはあり得ない。",
+        "reading": "そんなことはありえない。",
+        "vietnamese": "Điều đó không thể xảy ra."
+      }
+    ],
+    "ba_form": "あり得れば",
+    "ba_example": "それがあり得れば、すごいです。",
+    "ta_form": "あり得た",
+    "ta_example": "そんなことがあり得た。"
+  },
+  {
+    "id": 63,
+    "kanji": "居る",
+    "reading": "いる",
+    "meaning": "có (người/đv)",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "います",
+          "plain": "いる"
+        },
+        "negative": {
+          "polite": "いません",
+          "plain": "いない"
+        },
+        "question": {
+          "polite": "いますか",
+          "plain": "いる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "いました",
+          "plain": "いた"
+        },
+        "negative": {
+          "polite": "いませんでした",
+          "plain": "いなかった"
+        },
+        "question": {
+          "polite": "いましたか",
+          "plain": "いた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "いられます",
+          "plain": "いられる"
+        },
+        "negative": {
+          "polite": "いられません",
+          "plain": "いられない"
+        },
+        "question": {
+          "polite": "いられますか",
+          "plain": "いられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "いられました",
+          "plain": "いられた"
+        },
+        "negative": {
+          "polite": "いられませんでした",
+          "plain": "いられなかった"
+        },
+        "question": {
+          "polite": "いられましたか",
+          "plain": "いられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "犬が居ます。",
+        "reading": "いぬがいます。",
+        "vietnamese": "Có con chó."
+      },
+      {
+        "japanese": "部屋に誰も居なかった。",
+        "reading": "へやにだれもいなかった。",
+        "vietnamese": "Không có ai ở nhà."
+      }
+    ],
+    "ba_form": "居れば",
+    "ba_example": "ここに居れば、大丈夫です。",
+    "ta_form": "居た",
+    "ta_example": "部屋に犬が居た。"
+  },
+  {
+    "id": 64,
+    "kanji": "入れる",
+    "reading": "いれる",
+    "meaning": "cho vào",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "いれます",
+          "plain": "いれる"
+        },
+        "negative": {
+          "polite": "いれません",
+          "plain": "いれない"
+        },
+        "question": {
+          "polite": "いれますか",
+          "plain": "いれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "いれました",
+          "plain": "いれた"
+        },
+        "negative": {
+          "polite": "いれませんでした",
+          "plain": "いれなかった"
+        },
+        "question": {
+          "polite": "いれましたか",
+          "plain": "いれた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "いれられます",
+          "plain": "いれられる"
+        },
+        "negative": {
+          "polite": "いれられません",
+          "plain": "いれられない"
+        },
+        "question": {
+          "polite": "いれられますか",
+          "plain": "いれられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "いれられました",
+          "plain": "いれられた"
+        },
+        "negative": {
+          "polite": "いれられませんでした",
+          "plain": "いれられなかった"
+        },
+        "question": {
+          "polite": "いれられましたか",
+          "plain": "いれられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "本を入れます。",
+        "reading": "ほんをいれます。",
+        "vietnamese": "Cho sách vào."
+      },
+      {
+        "japanese": "砂糖を入れなかった。",
+        "reading": "さとうをいれなかった。",
+        "vietnamese": "Đã cho đường vào cà phê."
+      }
+    ],
+    "ba_form": "入れれば",
+    "ba_example": "コーヒーに砂糖を入れれば、甘いです。",
+    "ta_form": "入れた",
+    "ta_example": "かばんにノートを入れた。"
+  },
+  {
+    "id": 65,
+    "kanji": "起きる",
+    "reading": "おきる",
+    "meaning": "thức dậy",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "おきます",
+          "plain": "おきる"
+        },
+        "negative": {
+          "polite": "おきません",
+          "plain": "おきない"
+        },
+        "question": {
+          "polite": "おきますか",
+          "plain": "おきる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "おきました",
+          "plain": "おきた"
+        },
+        "negative": {
+          "polite": "おきませんでした",
+          "plain": "おきなかった"
+        },
+        "question": {
+          "polite": "おきましたか",
+          "plain": "おきた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "おきられます",
+          "plain": "おきられる"
+        },
+        "negative": {
+          "polite": "おきられません",
+          "plain": "おきられない"
+        },
+        "question": {
+          "polite": "おきられますか",
+          "plain": "おきられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "おきられました",
+          "plain": "おきられた"
+        },
+        "negative": {
+          "polite": "おきられませんでした",
+          "plain": "おきられなかった"
+        },
+        "question": {
+          "polite": "おきられましたか",
+          "plain": "おきられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "６時に起きます。",
+        "reading": "ろくじにおきます。",
+        "vietnamese": "Thức dậy lúc 7 giờ."
+      },
+      {
+        "japanese": "明日は早く起きられない。",
+        "reading": "あしたははやくおきられない。",
+        "vietnamese": "Sáng nay đã không dậy sớm."
+      }
+    ],
+    "ba_form": "起きれば",
+    "ba_example": "早く起きれば、朝ごはんを食べます。",
+    "ta_form": "起きた",
+    "ta_example": "今朝、６時に起きた。"
+  },
+  {
+    "id": 66,
+    "kanji": "教える",
+    "reading": "おしえる",
+    "meaning": "dạy",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "おしえます",
+          "plain": "おしえる"
+        },
+        "negative": {
+          "polite": "おしえません",
+          "plain": "おしえない"
+        },
+        "question": {
+          "polite": "おしえますか",
+          "plain": "おしえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "おしえました",
+          "plain": "おしえた"
+        },
+        "negative": {
+          "polite": "おしえませんでした",
+          "plain": "おしえなかった"
+        },
+        "question": {
+          "polite": "おしえましたか",
+          "plain": "おしえた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "おしえられます",
+          "plain": "おしえられる"
+        },
+        "negative": {
+          "polite": "おしえられません",
+          "plain": "おしえられない"
+        },
+        "question": {
+          "polite": "おしえられますか",
+          "plain": "おしえられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "おしえられました",
+          "plain": "おしえられた"
+        },
+        "negative": {
+          "polite": "おしえられませんでした",
+          "plain": "おしえられなかった"
+        },
+        "question": {
+          "polite": "おしえられましたか",
+          "plain": "おしえられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "英語を教えます。",
+        "reading": "えいごをおしえます。",
+        "vietnamese": "Dạy tiếng Nhật."
+      },
+      {
+        "japanese": "漢字を教えなかった。",
+        "reading": "かんじをおしえなかった。",
+        "vietnamese": "Đã không dạy toán."
+      }
+    ],
+    "ba_form": "教えれば",
+    "ba_example": "先生が教えれば、わかります。",
+    "ta_form": "教えた",
+    "ta_example": "妹に数学を教えた。"
+  },
+  {
+    "id": 67,
+    "kanji": "覚える",
+    "reading": "おぼえる",
+    "meaning": "nhớ",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "おぼえます",
+          "plain": "おぼえる"
+        },
+        "negative": {
+          "polite": "おぼえません",
+          "plain": "おぼえない"
+        },
+        "question": {
+          "polite": "おぼえますか",
+          "plain": "おぼえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "おぼえました",
+          "plain": "おぼえた"
+        },
+        "negative": {
+          "polite": "おぼえませんでした",
+          "plain": "おぼえなかった"
+        },
+        "question": {
+          "polite": "おぼえましたか",
+          "plain": "おぼえた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "おぼえられます",
+          "plain": "おぼえられる"
+        },
+        "negative": {
+          "polite": "おぼえられません",
+          "plain": "おぼえられない"
+        },
+        "question": {
+          "polite": "おぼえられますか",
+          "plain": "おぼえられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "おぼえられました",
+          "plain": "おぼえられた"
+        },
+        "negative": {
+          "polite": "おぼえられませんでした",
+          "plain": "おぼえられなかった"
+        },
+        "question": {
+          "polite": "おぼえられましたか",
+          "plain": "おぼえられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "漢字を覚えます。",
+        "reading": "かんじをおぼえます。",
+        "vietnamese": "Nhớ từ vựng."
+      },
+      {
+        "japanese": "たくさん覚えられない。",
+        "reading": "たくさんおぼえられない。",
+        "vietnamese": "Không nhớ được."
+      }
+    ],
+    "ba_form": "覚えれば",
+    "ba_example": "漢字を覚えれば、読めます。",
+    "ta_form": "覚えた",
+    "ta_example": "新しい言葉を覚えた。"
+  },
+  {
+    "id": 68,
+    "kanji": "降りる",
+    "reading": "おりる",
+    "meaning": "xuống (xe)",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "おります",
+          "plain": "おりる"
+        },
+        "negative": {
+          "polite": "おりません",
+          "plain": "おりない"
+        },
+        "question": {
+          "polite": "おりますか",
+          "plain": "おりる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "おりました",
+          "plain": "おりた"
+        },
+        "negative": {
+          "polite": "おりませんでした",
+          "plain": "おりなかった"
+        },
+        "question": {
+          "polite": "おりましたか",
+          "plain": "おりた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "おりられます",
+          "plain": "おりられる"
+        },
+        "negative": {
+          "polite": "おりられません",
+          "plain": "おりられない"
+        },
+        "question": {
+          "polite": "おりられますか",
+          "plain": "おりられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "おりられました",
+          "plain": "おりられた"
+        },
+        "negative": {
+          "polite": "おりられませんでした",
+          "plain": "おりられなかった"
+        },
+        "question": {
+          "polite": "おりられましたか",
+          "plain": "おりられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "電車を降ります。",
+        "reading": "でんしゃをおります。",
+        "vietnamese": "Xuống xe buýt."
+      },
+      {
+        "japanese": "ここで降りられない。",
+        "reading": "ここでおりられない。",
+        "vietnamese": "Đã xuống sai trạm."
+      }
+    ],
+    "ba_form": "降りれば",
+    "ba_example": "次の駅で降りれば、近いです。",
+    "ta_form": "降りた",
+    "ta_example": "バスを降りた。"
+  },
+  {
+    "id": 69,
+    "kanji": "変える",
+    "reading": "かえる",
+    "meaning": "đổi",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "かえます",
+          "plain": "かえる"
+        },
+        "negative": {
+          "polite": "かえません",
+          "plain": "かえない"
+        },
+        "question": {
+          "polite": "かえますか",
+          "plain": "かえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かえました",
+          "plain": "かえた"
+        },
+        "negative": {
+          "polite": "かえませんでした",
+          "plain": "かえなかった"
+        },
+        "question": {
+          "polite": "かえましたか",
+          "plain": "かえた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "かえられます",
+          "plain": "かえられる"
+        },
+        "negative": {
+          "polite": "かえられません",
+          "plain": "かえられない"
+        },
+        "question": {
+          "polite": "かえられますか",
+          "plain": "かえられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かえられました",
+          "plain": "かえられた"
+        },
+        "negative": {
+          "polite": "かえられませんでした",
+          "plain": "かえられなかった"
+        },
+        "question": {
+          "polite": "かえられましたか",
+          "plain": "かえられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "予定を変えます。",
+        "reading": "よていをかえます。",
+        "vietnamese": "Thay đổi lịch trình."
+      },
+      {
+        "japanese": "時間を変えられた。",
+        "reading": "じかんをかえられた。",
+        "vietnamese": "Đã không thay đổi kế hoạch."
+      }
+    ],
+    "ba_form": "変えれば",
+    "ba_example": "色を変えれば、きれいになります。",
+    "ta_form": "変えた",
+    "ta_example": "日曜日の予定を変えた。"
+  },
+  {
+    "id": 70,
+    "kanji": "掛ける",
+    "reading": "かける",
+    "meaning": "treo, gọi điện",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "かけます",
+          "plain": "かける"
+        },
+        "negative": {
+          "polite": "かけません",
+          "plain": "かけない"
+        },
+        "question": {
+          "polite": "かけますか",
+          "plain": "かける？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かけました",
+          "plain": "かけた"
+        },
+        "negative": {
+          "polite": "かけませんでした",
+          "plain": "かけなかった"
+        },
+        "question": {
+          "polite": "かけましたか",
+          "plain": "かけた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "かけられます",
+          "plain": "かけられる"
+        },
+        "negative": {
+          "polite": "かけられません",
+          "plain": "かけられない"
+        },
+        "question": {
+          "polite": "かけられますか",
+          "plain": "かけられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かけられました",
+          "plain": "かけられた"
+        },
+        "negative": {
+          "polite": "かけられませんでした",
+          "plain": "かけられなかった"
+        },
+        "question": {
+          "polite": "かけられましたか",
+          "plain": "かけられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "電話を掛けます。",
+        "reading": "でんわをかけます。",
+        "vietnamese": "Gọi điện thoại."
+      },
+      {
+        "japanese": "眼鏡を掛けなかった。",
+        "reading": "めがねをかけなかった。",
+        "vietnamese": "Đã treo áo lên."
+      }
+    ],
+    "ba_form": "gọi)",
+    "ba_example": "掛ければ",
+    "ta_form": "友達に電話を掛ければ、話せます。",
+    "ta_example": "掛けた"
+  },
+  {
+    "id": 71,
+    "kanji": "借りる",
+    "reading": "かりる",
+    "meaning": "mượn",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "かります",
+          "plain": "かりる"
+        },
+        "negative": {
+          "polite": "かりません",
+          "plain": "かりない"
+        },
+        "question": {
+          "polite": "かりますか",
+          "plain": "かりる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かりました",
+          "plain": "かりた"
+        },
+        "negative": {
+          "polite": "かりませんでした",
+          "plain": "かりなかった"
+        },
+        "question": {
+          "polite": "かりましたか",
+          "plain": "かりた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "かりられます",
+          "plain": "かりられる"
+        },
+        "negative": {
+          "polite": "かりられません",
+          "plain": "かりられない"
+        },
+        "question": {
+          "polite": "かりられますか",
+          "plain": "かりられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かりられました",
+          "plain": "かりられた"
+        },
+        "negative": {
+          "polite": "かりられませんでした",
+          "plain": "かりられなかった"
+        },
+        "question": {
+          "polite": "かりられましたか",
+          "plain": "かりられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "本を借ります。",
+        "reading": "ほんをかります。",
+        "vietnamese": "Mượn sách."
+      },
+      {
+        "japanese": "車を借りられない。",
+        "reading": "くるまをかりられない。",
+        "vietnamese": "Không thể mượn được."
+      }
+    ],
+    "ba_form": "借りれば",
+    "ba_example": "お金を借りれば、買えます。",
+    "ta_form": "借りた",
+    "ta_example": "図書館で本を借りた。"
+  },
+  {
+    "id": 72,
+    "kanji": "消える",
+    "reading": "きえる",
+    "meaning": "biến mất, tắt",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "きえます",
+          "plain": "きえる"
+        },
+        "negative": {
+          "polite": "きえません",
+          "plain": "きえない"
+        },
+        "question": {
+          "polite": "きえますか",
+          "plain": "きえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "きえました",
+          "plain": "きえた"
+        },
+        "negative": {
+          "polite": "きえませんでした",
+          "plain": "きえなかった"
+        },
+        "question": {
+          "polite": "きえましたか",
+          "plain": "きえた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "きえられます",
+          "plain": "きえられる"
+        },
+        "negative": {
+          "polite": "きえられません",
+          "plain": "きえられない"
+        },
+        "question": {
+          "polite": "きえられますか",
+          "plain": "きえられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "きえられました",
+          "plain": "きえられた"
+        },
+        "negative": {
+          "polite": "きえられませんでした",
+          "plain": "きえられなかった"
+        },
+        "question": {
+          "polite": "きえられましたか",
+          "plain": "きえられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "電気が消えます。",
+        "reading": "でんきがきえます。",
+        "vietnamese": "Đèn tắt."
+      },
+      {
+        "japanese": "火が消えなかった。",
+        "reading": "ひがきえなかった。",
+        "vietnamese": "Chữ đã biến mất."
+      }
+    ],
+    "ba_form": "消えれば",
+    "ba_example": "電気が消えれば、暗いです。",
+    "ta_form": "消えた",
+    "ta_example": "火が消えた。"
+  },
+  {
+    "id": 73,
+    "kanji": "着る",
+    "reading": "きる",
+    "meaning": "mặc (áo)",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "きます",
+          "plain": "きる"
+        },
+        "negative": {
+          "polite": "きません",
+          "plain": "きない"
+        },
+        "question": {
+          "polite": "きますか",
+          "plain": "きる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "きました",
+          "plain": "きた"
+        },
+        "negative": {
+          "polite": "きませんでした",
+          "plain": "きなかった"
+        },
+        "question": {
+          "polite": "きましたか",
+          "plain": "きた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "きられます",
+          "plain": "きられる"
+        },
+        "negative": {
+          "polite": "きられません",
+          "plain": "きられない"
+        },
+        "question": {
+          "polite": "きられますか",
+          "plain": "きられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "きられました",
+          "plain": "きられた"
+        },
+        "negative": {
+          "polite": "きられませんでした",
+          "plain": "きられなかった"
+        },
+        "question": {
+          "polite": "きられましたか",
+          "plain": "きられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "コートを着ます。",
+        "reading": "コートをきます。",
+        "vietnamese": "Mặc áo khoác."
+      },
+      {
+        "japanese": "この服は着られない。",
+        "reading": "このふくはきられない。",
+        "vietnamese": "Hôm qua đã không mặc áo ấm."
+      }
+    ],
+    "ba_form": "着れば",
+    "ba_example": "セーターを着れば、暖かいです。",
+    "ta_form": "着た",
+    "ta_example": "白いシャツを着た。"
+  },
+  {
+    "id": 74,
+    "kanji": "閉める",
+    "reading": "しめる",
+    "meaning": "đóng",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "しめます",
+          "plain": "しめる"
+        },
+        "negative": {
+          "polite": "しめません",
+          "plain": "しめない"
+        },
+        "question": {
+          "polite": "しめますか",
+          "plain": "しめる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "しめました",
+          "plain": "しめた"
+        },
+        "negative": {
+          "polite": "しめませんでした",
+          "plain": "しめなかった"
+        },
+        "question": {
+          "polite": "しめましたか",
+          "plain": "しめた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "しめられます",
+          "plain": "しめられる"
+        },
+        "negative": {
+          "polite": "しめられません",
+          "plain": "しめられない"
+        },
+        "question": {
+          "polite": "しめられますか",
+          "plain": "しめられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "しめられました",
+          "plain": "しめられた"
+        },
+        "negative": {
+          "polite": "しめられませんでした",
+          "plain": "しめられなかった"
+        },
+        "question": {
+          "polite": "しめられましたか",
+          "plain": "しめられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "ドアを閉めます。",
+        "reading": "どあをしめます。",
+        "vietnamese": "Đóng cửa."
+      },
+      {
+        "japanese": "窓を閉めなかった。",
+        "reading": "まどをしめなかった。",
+        "vietnamese": "Đã không đóng cửa sổ."
+      }
+    ],
+    "ba_form": "閉めれば",
+    "ba_example": "窓を閉めれば、静かです。",
+    "ta_form": "閉めた",
+    "ta_example": "寒いから、ドアを閉めた。"
+  },
+  {
+    "id": 75,
+    "kanji": "調べる",
+    "reading": "しらべる",
+    "meaning": "điều tra, tra cứu",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "しらべます",
+          "plain": "しらべる"
+        },
+        "negative": {
+          "polite": "しらべません",
+          "plain": "しらべない"
+        },
+        "question": {
+          "polite": "しらべますか",
+          "plain": "しらべる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "しらべました",
+          "plain": "しらべた"
+        },
+        "negative": {
+          "polite": "しらべませんでした",
+          "plain": "しらべなかった"
+        },
+        "question": {
+          "polite": "しらべましたか",
+          "plain": "しらべた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "しらべられます",
+          "plain": "しらべられる"
+        },
+        "negative": {
+          "polite": "しらべられません",
+          "plain": "しらべられない"
+        },
+        "question": {
+          "polite": "しらべられますか",
+          "plain": "しらべられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "しらべられました",
+          "plain": "しらべられた"
+        },
+        "negative": {
+          "polite": "しらべられませんでした",
+          "plain": "しらべられなかった"
+        },
+        "question": {
+          "polite": "しらべられましたか",
+          "plain": "しらべられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "言葉を調べます。",
+        "reading": "ことばをしらべます。",
+        "vietnamese": "Tra cứu từ vựng."
+      },
+      {
+        "japanese": "辞書で調べられる？",
+        "reading": "じしょでしらべられる？",
+        "vietnamese": "Đã tra trên internet."
+      }
+    ],
+    "ba_form": "調べれば",
+    "ba_example": "辞書で調べれば、わかります。",
+    "ta_form": "調べた",
+    "ta_example": "明日の天気を調べた。"
+  },
+  {
+    "id": 76,
+    "kanji": "食べる",
+    "reading": "たべる",
+    "meaning": "ăn",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "たべます",
+          "plain": "たべる"
+        },
+        "negative": {
+          "polite": "たべません",
+          "plain": "たべない"
+        },
+        "question": {
+          "polite": "たべますか",
+          "plain": "たべる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "たべました",
+          "plain": "たべた"
+        },
+        "negative": {
+          "polite": "たべませんでした",
+          "plain": "たべなかった"
+        },
+        "question": {
+          "polite": "たべましたか",
+          "plain": "たべた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "たべられます",
+          "plain": "たべられる"
+        },
+        "negative": {
+          "polite": "たべられません",
+          "plain": "たべられない"
+        },
+        "question": {
+          "polite": "たべられますか",
+          "plain": "たべられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "たべられました",
+          "plain": "たべられた"
+        },
+        "negative": {
+          "polite": "たべられませんでした",
+          "plain": "たべられなかった"
+        },
+        "question": {
+          "polite": "たべられましたか",
+          "plain": "たべられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "りんごを食べます。",
+        "reading": "りんごをたべます。",
+        "vietnamese": "Ăn cơm."
+      },
+      {
+        "japanese": "刺身が食べられない。",
+        "reading": "さしみがたべられない。",
+        "vietnamese": "Sáng nay đã không ăn gì."
+      }
+    ],
+    "ba_form": "食べれば",
+    "ba_example": "野菜を食べれば、元気になります。",
+    "ta_form": "食べた",
+    "ta_example": "家族と晩ご飯を食べた。"
+  },
+  {
+    "id": 77,
+    "kanji": "疲れる",
+    "reading": "つかれる",
+    "meaning": "mệt",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "つかれます",
+          "plain": "つかれる"
+        },
+        "negative": {
+          "polite": "つかれません",
+          "plain": "つかれない"
+        },
+        "question": {
+          "polite": "つかれますか",
+          "plain": "つかれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "つかれました",
+          "plain": "つかれた"
+        },
+        "negative": {
+          "polite": "つかれませんでした",
+          "plain": "つかれなかった"
+        },
+        "question": {
+          "polite": "つかれましたか",
+          "plain": "つかれた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "つかれられます",
+          "plain": "つかれられる"
+        },
+        "negative": {
+          "polite": "つかれられません",
+          "plain": "つかれられない"
+        },
+        "question": {
+          "polite": "つかれられますか",
+          "plain": "つかれられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "つかれられました",
+          "plain": "つかれられた"
+        },
+        "negative": {
+          "polite": "つかれられませんでした",
+          "plain": "つかれられなかった"
+        },
+        "question": {
+          "polite": "つかれられましたか",
+          "plain": "つかれられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "とても疲れました。",
+        "reading": "とてもつかれました。",
+        "vietnamese": "Mệt rồi."
+      },
+      {
+        "japanese": "全然疲れない。",
+        "reading": "ぜんぜんつかれない。",
+        "vietnamese": "Hôm qua rất mệt."
+      }
+    ],
+    "ba_form": "疲れれば",
+    "ba_example": "疲れれば、休みます。",
+    "ta_form": "疲れた",
+    "ta_example": "仕事でとても疲れた。"
+  },
+  {
+    "id": 78,
+    "kanji": "付ける",
+    "reading": "つける",
+    "meaning": "bật, gắn",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "つけます",
+          "plain": "つける"
+        },
+        "negative": {
+          "polite": "つけません",
+          "plain": "つけない"
+        },
+        "question": {
+          "polite": "つけますか",
+          "plain": "つける？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "つけました",
+          "plain": "つけた"
+        },
+        "negative": {
+          "polite": "つけませんでした",
+          "plain": "つけなかった"
+        },
+        "question": {
+          "polite": "つけましたか",
+          "plain": "つけた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "つけられます",
+          "plain": "つけられる"
+        },
+        "negative": {
+          "polite": "つけられません",
+          "plain": "つけられない"
+        },
+        "question": {
+          "polite": "つけられますか",
+          "plain": "つけられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "つけられました",
+          "plain": "つけられた"
+        },
+        "negative": {
+          "polite": "つけられませんでした",
+          "plain": "つけられなかった"
+        },
+        "question": {
+          "polite": "つけられましたか",
+          "plain": "つけられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "電気を付けます。",
+        "reading": "でんきをつけます。",
+        "vietnamese": "Bật đèn."
+      },
+      {
+        "japanese": "エアコンを付けなかった。",
+        "reading": "エアコンをつけなかった。",
+        "vietnamese": "Đã không bật máy lạnh."
+      }
+    ],
+    "ba_form": "gắn)",
+    "ba_example": "付ければ",
+    "ta_form": "エアコンを付ければ、涼しいです。",
+    "ta_example": "付けた"
+  },
+  {
+    "id": 79,
+    "kanji": "勤める",
+    "reading": "つとめる",
+    "meaning": "làm việc cho",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "つとめます",
+          "plain": "つとめる"
+        },
+        "negative": {
+          "polite": "つとめません",
+          "plain": "つとめない"
+        },
+        "question": {
+          "polite": "つとめますか",
+          "plain": "つとめる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "つとめました",
+          "plain": "つとめた"
+        },
+        "negative": {
+          "polite": "つとめませんでした",
+          "plain": "つとめなかった"
+        },
+        "question": {
+          "polite": "つとめましたか",
+          "plain": "つとめた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "つとめられます",
+          "plain": "つとめられる"
+        },
+        "negative": {
+          "polite": "つとめられません",
+          "plain": "つとめられない"
+        },
+        "question": {
+          "polite": "つとめられますか",
+          "plain": "つとめられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "つとめられました",
+          "plain": "つとめられた"
+        },
+        "negative": {
+          "polite": "つとめられませんでした",
+          "plain": "つとめられなかった"
+        },
+        "question": {
+          "polite": "つとめられましたか",
+          "plain": "つとめられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "会社に勤めます。",
+        "reading": "かいしゃにつとめます。",
+        "vietnamese": "Làm việc ở ngân hàng."
+      },
+      {
+        "japanese": "銀行に勤められなかった。",
+        "reading": "ぎんこうにつとめられなかった。",
+        "vietnamese": "Trước đây làm ở bệnh viện."
+      }
+    ],
+    "ba_form": "勤めれば",
+    "ba_example": "会社に勤めれば、忙しいです。",
+    "ta_form": "勤めた",
+    "ta_example": "東京の銀行に勤めた。"
+  },
+  {
+    "id": 80,
+    "kanji": "出来る",
+    "reading": "できる",
+    "meaning": "có thể, hoàn thành",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "できます",
+          "plain": "できる"
+        },
+        "negative": {
+          "polite": "できません",
+          "plain": "できない"
+        },
+        "question": {
+          "polite": "できますか",
+          "plain": "できる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "できました",
+          "plain": "できた"
+        },
+        "negative": {
+          "polite": "できませんでした",
+          "plain": "できなかった"
+        },
+        "question": {
+          "polite": "できましたか",
+          "plain": "できた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "できられます",
+          "plain": "できられる"
+        },
+        "negative": {
+          "polite": "できられません",
+          "plain": "できられない"
+        },
+        "question": {
+          "polite": "できられますか",
+          "plain": "できられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "できられました",
+          "plain": "できられた"
+        },
+        "negative": {
+          "polite": "できられませんでした",
+          "plain": "できられなかった"
+        },
+        "question": {
+          "polite": "できられましたか",
+          "plain": "できられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "料理が出来ます。",
+        "reading": "りょうりができます。",
+        "vietnamese": "Có thể nấu ăn."
+      },
+      {
+        "japanese": "宿題が出来ない。",
+        "reading": "しゅくだいができない。",
+        "vietnamese": "Cơm đã nấu xong."
+      }
+    ],
+    "ba_form": "出来れば",
+    "ba_example": "英語が出来れば、いいですね。",
+    "ta_form": "出来た",
+    "ta_example": "難しい宿題が出来た。"
+  },
+  {
+    "id": 81,
+    "kanji": "出掛ける",
+    "reading": "でかける",
+    "meaning": "ra ngoài",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "でかけます",
+          "plain": "でかける"
+        },
+        "negative": {
+          "polite": "でかけません",
+          "plain": "でかけない"
+        },
+        "question": {
+          "polite": "でかけますか",
+          "plain": "でかける？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "でかけました",
+          "plain": "でかけた"
+        },
+        "negative": {
+          "polite": "でかけませんでした",
+          "plain": "でかけなかった"
+        },
+        "question": {
+          "polite": "でかけましたか",
+          "plain": "でかけた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "でかけられます",
+          "plain": "でかけられる"
+        },
+        "negative": {
+          "polite": "でかけられません",
+          "plain": "でかけられない"
+        },
+        "question": {
+          "polite": "でかけられますか",
+          "plain": "でかけられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "でかけられました",
+          "plain": "でかけられた"
+        },
+        "negative": {
+          "polite": "でかけられませんでした",
+          "plain": "でかけられなかった"
+        },
+        "question": {
+          "polite": "でかけられましたか",
+          "plain": "でかけられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "買い物に出掛けます。",
+        "reading": "かいものにでかけます。",
+        "vietnamese": "Đi mua sắm."
+      },
+      {
+        "japanese": "夜は出掛けない。",
+        "reading": "よるはでかけない。",
+        "vietnamese": "Hôm qua đã đi ra ngoài."
+      }
+    ],
+    "ba_form": "出掛ければ",
+    "ba_example": "今から出掛ければ、間に合います。",
+    "ta_form": "出掛けた",
+    "ta_example": "買い物に出掛けた。"
+  },
+  {
+    "id": 82,
+    "kanji": "出る",
+    "reading": "でる",
+    "meaning": "ra khỏi",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "でます",
+          "plain": "でる"
+        },
+        "negative": {
+          "polite": "でません",
+          "plain": "でない"
+        },
+        "question": {
+          "polite": "でますか",
+          "plain": "でる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "でました",
+          "plain": "でた"
+        },
+        "negative": {
+          "polite": "でませんでした",
+          "plain": "でなかった"
+        },
+        "question": {
+          "polite": "でましたか",
+          "plain": "でた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "でられます",
+          "plain": "でられる"
+        },
+        "negative": {
+          "polite": "でられません",
+          "plain": "でられない"
+        },
+        "question": {
+          "polite": "でられますか",
+          "plain": "でられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "でられました",
+          "plain": "でられた"
+        },
+        "negative": {
+          "polite": "でられませんでした",
+          "plain": "でられなかった"
+        },
+        "question": {
+          "polite": "でられましたか",
+          "plain": "でられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "家を出ます。",
+        "reading": "いえをでます。",
+        "vietnamese": "Ra khỏi nhà."
+      },
+      {
+        "japanese": "部屋から出られません。",
+        "reading": "へやからでられません。",
+        "vietnamese": "Đã ra ngoài lúc 7 giờ."
+      }
+    ],
+    "ba_form": "出れば",
+    "ba_example": "部屋を出れば、寒いです。",
+    "ta_form": "出た",
+    "ta_example": "うちを出た。"
+  },
+  {
+    "id": 83,
+    "kanji": "止める",
+    "reading": "とめる",
+    "meaning": "dừng (vật)",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "とめます",
+          "plain": "とめる"
+        },
+        "negative": {
+          "polite": "とめません",
+          "plain": "とめない"
+        },
+        "question": {
+          "polite": "とめますか",
+          "plain": "とめる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "とめました",
+          "plain": "とめた"
+        },
+        "negative": {
+          "polite": "とめませんでした",
+          "plain": "とめなかった"
+        },
+        "question": {
+          "polite": "とめましたか",
+          "plain": "とめた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "とめられます",
+          "plain": "とめられる"
+        },
+        "negative": {
+          "polite": "とめられません",
+          "plain": "とめられない"
+        },
+        "question": {
+          "polite": "とめられますか",
+          "plain": "とめられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "とめられました",
+          "plain": "とめられた"
+        },
+        "negative": {
+          "polite": "とめられませんでした",
+          "plain": "とめられなかった"
+        },
+        "question": {
+          "polite": "とめられましたか",
+          "plain": "とめられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "車を止めます。",
+        "reading": "くるまをとめます。",
+        "vietnamese": "Dừng xe."
+      },
+      {
+        "japanese": "タクシーを止めなかった。",
+        "reading": "タクシーをとめなかった。",
+        "vietnamese": "Đã dừng máy."
+      }
+    ],
+    "ba_form": "止めれば",
+    "ba_example": "車を止めれば、歩きます。",
+    "ta_form": "止めた",
+    "ta_example": "ここに車を止めた。"
+  },
+  {
+    "id": 84,
+    "kanji": "寝る",
+    "reading": "ねる",
+    "meaning": "ngủ",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "ねます",
+          "plain": "ねる"
+        },
+        "negative": {
+          "polite": "ねません",
+          "plain": "ねない"
+        },
+        "question": {
+          "polite": "ねますか",
+          "plain": "ねる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "ねました",
+          "plain": "ねた"
+        },
+        "negative": {
+          "polite": "ねませんでした",
+          "plain": "ねなかった"
+        },
+        "question": {
+          "polite": "ねましたか",
+          "plain": "ねた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "ねられます",
+          "plain": "ねられる"
+        },
+        "negative": {
+          "polite": "ねられません",
+          "plain": "ねられない"
+        },
+        "question": {
+          "polite": "ねられますか",
+          "plain": "ねられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "ねられました",
+          "plain": "ねられた"
+        },
+        "negative": {
+          "polite": "ねられませんでした",
+          "plain": "ねられなかった"
+        },
+        "question": {
+          "polite": "ねられましたか",
+          "plain": "ねられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "１１時に寝ます。",
+        "reading": "じゅういちじにねます。",
+        "vietnamese": "Ngủ lúc 11 giờ."
+      },
+      {
+        "japanese": "うるさくて寝られない。",
+        "reading": "うるさくてねられない。",
+        "vietnamese": "Hôm qua đã ngủ muộn."
+      }
+    ],
+    "ba_form": "寝れば",
+    "ba_example": "早く寝れば、明日起きられます。",
+    "ta_form": "寝た",
+    "ta_example": "昨日は１０時に寝た。"
+  },
+  {
+    "id": 85,
+    "kanji": "始める",
+    "reading": "はじめる",
+    "meaning": "bắt đầu",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "はじめます",
+          "plain": "はじめる"
+        },
+        "negative": {
+          "polite": "はじめません",
+          "plain": "はじめない"
+        },
+        "question": {
+          "polite": "はじめますか",
+          "plain": "はじめる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "はじめました",
+          "plain": "はじめた"
+        },
+        "negative": {
+          "polite": "はじめませんでした",
+          "plain": "はじめなかった"
+        },
+        "question": {
+          "polite": "はじめましたか",
+          "plain": "はじめた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "はじめられます",
+          "plain": "はじめられる"
+        },
+        "negative": {
+          "polite": "はじめられません",
+          "plain": "はじめられない"
+        },
+        "question": {
+          "polite": "はじめられますか",
+          "plain": "はじめられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "はじめられました",
+          "plain": "はじめられた"
+        },
+        "negative": {
+          "polite": "はじめられませんでした",
+          "plain": "はじめられなかった"
+        },
+        "question": {
+          "polite": "はじめられましたか",
+          "plain": "はじめられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "会議を始めます。",
+        "reading": "かいぎをはじめます。",
+        "vietnamese": "Bắt đầu cuộc họp."
+      },
+      {
+        "japanese": "まだ始めない。",
+        "reading": "まだはじめない。",
+        "vietnamese": "Đã bắt đầu học."
+      }
+    ],
+    "ba_form": "始めれば",
+    "ba_example": "今始めれば、終わります。",
+    "ta_form": "始めた",
+    "ta_example": "日本語の勉強を始めた。"
+  },
+  {
+    "id": 86,
+    "kanji": "晴れる",
+    "reading": "はれる",
+    "meaning": "trời nắng",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "はれます",
+          "plain": "はれる"
+        },
+        "negative": {
+          "polite": "はれません",
+          "plain": "はれない"
+        },
+        "question": {
+          "polite": "はれますか",
+          "plain": "はれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "はれました",
+          "plain": "はれた"
+        },
+        "negative": {
+          "polite": "はれませんでした",
+          "plain": "はれなかった"
+        },
+        "question": {
+          "polite": "はれましたか",
+          "plain": "はれた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "はれられます",
+          "plain": "はれられる"
+        },
+        "negative": {
+          "polite": "はれられません",
+          "plain": "はれられない"
+        },
+        "question": {
+          "polite": "はれられますか",
+          "plain": "はれられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "はれられました",
+          "plain": "はれられた"
+        },
+        "negative": {
+          "polite": "はれられませんでした",
+          "plain": "はれられなかった"
+        },
+        "question": {
+          "polite": "はれられましたか",
+          "plain": "はれられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "明日は晴れます。",
+        "reading": "あしたははれます。",
+        "vietnamese": "Trời nắng."
+      },
+      {
+        "japanese": "今日は晴れなかった。",
+        "reading": "きょうははれなかった。",
+        "vietnamese": "Ngày mai có lẽ sẽ nắng."
+      }
+    ],
+    "ba_form": "晴れれば",
+    "ba_example": "明日晴れれば、海へ行きます。",
+    "ta_form": "晴れた",
+    "ta_example": "今日はよく晴れた。"
+  },
+  {
+    "id": 87,
+    "kanji": "見える",
+    "reading": "みえる",
+    "meaning": "nhìn thấy",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "みえます",
+          "plain": "みえる"
+        },
+        "negative": {
+          "polite": "みえません",
+          "plain": "みえない"
+        },
+        "question": {
+          "polite": "みえますか",
+          "plain": "みえる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "みえました",
+          "plain": "みえた"
+        },
+        "negative": {
+          "polite": "みえませんでした",
+          "plain": "みえなかった"
+        },
+        "question": {
+          "polite": "みえましたか",
+          "plain": "みえた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "みえられます",
+          "plain": "みえられる"
+        },
+        "negative": {
+          "polite": "みえられません",
+          "plain": "みえられない"
+        },
+        "question": {
+          "polite": "みえられますか",
+          "plain": "みえられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "みえられました",
+          "plain": "みえられた"
+        },
+        "negative": {
+          "polite": "みえられませんでした",
+          "plain": "みえられなかった"
+        },
+        "question": {
+          "polite": "みえられましたか",
+          "plain": "みえられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "海が見えます。",
+        "reading": "うみがみえます。",
+        "vietnamese": "Nhìn thấy biển."
+      },
+      {
+        "japanese": "星が見えない。",
+        "reading": "ほしがみえない。",
+        "vietnamese": "Không nhìn thấy gì."
+      }
+    ],
+    "ba_form": "見えれば",
+    "ba_example": "山に登れば、海が見えます。",
+    "ta_form": "見えた",
+    "ta_example": "窓から富士山が見えた。"
+  },
+  {
+    "id": 88,
+    "kanji": "見せる",
+    "reading": "みせる",
+    "meaning": "cho xem",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "みせます",
+          "plain": "みせる"
+        },
+        "negative": {
+          "polite": "みせません",
+          "plain": "みせない"
+        },
+        "question": {
+          "polite": "みせますか",
+          "plain": "みせる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "みせました",
+          "plain": "みせた"
+        },
+        "negative": {
+          "polite": "みせませんでした",
+          "plain": "みせなかった"
+        },
+        "question": {
+          "polite": "みせましたか",
+          "plain": "みせた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "みせられます",
+          "plain": "みせられる"
+        },
+        "negative": {
+          "polite": "みせられません",
+          "plain": "みせられない"
+        },
+        "question": {
+          "polite": "みせられますか",
+          "plain": "みせられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "みせられました",
+          "plain": "みせられた"
+        },
+        "negative": {
+          "polite": "みせられませんでした",
+          "plain": "みせられなかった"
+        },
+        "question": {
+          "polite": "みせられましたか",
+          "plain": "みせられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "写真を見せます。",
+        "reading": "しゃしんをみせます。",
+        "vietnamese": "Cho xem ảnh."
+      },
+      {
+        "japanese": "パスポートを見せなかった。",
+        "reading": "パスポートをみせなかった。",
+        "vietnamese": "Đã không cho xem."
+      }
+    ],
+    "ba_form": "見せれば",
+    "ba_example": "写真を見せれば、わかります。",
+    "ta_form": "見せた",
+    "ta_example": "警察にパスポートを見せた。"
+  },
+  {
+    "id": 89,
+    "kanji": "見る",
+    "reading": "みる",
+    "meaning": "xem, nhìn",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "みます",
+          "plain": "みる"
+        },
+        "negative": {
+          "polite": "みません",
+          "plain": "みない"
+        },
+        "question": {
+          "polite": "みますか",
+          "plain": "みる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "みました",
+          "plain": "みた"
+        },
+        "negative": {
+          "polite": "みませんでした",
+          "plain": "みなかった"
+        },
+        "question": {
+          "polite": "みましたか",
+          "plain": "みた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "みられます",
+          "plain": "みられる"
+        },
+        "negative": {
+          "polite": "みられません",
+          "plain": "みられない"
+        },
+        "question": {
+          "polite": "みられますか",
+          "plain": "みられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "みられました",
+          "plain": "みられた"
+        },
+        "negative": {
+          "polite": "みられませんでした",
+          "plain": "みられなかった"
+        },
+        "question": {
+          "polite": "みられましたか",
+          "plain": "みられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "映画を見ます。",
+        "reading": "えいがをみます。",
+        "vietnamese": "Xem TV."
+      },
+      {
+        "japanese": "テレビを見られない。",
+        "reading": "テレビをみられない。",
+        "vietnamese": "Đã không xem phim."
+      }
+    ],
+    "ba_form": "nhìn)",
+    "ba_example": "見れば",
+    "ta_form": "その映画を見れば、泣きます。",
+    "ta_example": "見た"
+  },
+  {
+    "id": 90,
+    "kanji": "辞める",
+    "reading": "やめる",
+    "meaning": "từ bỏ",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "やめます",
+          "plain": "やめる"
+        },
+        "negative": {
+          "polite": "やめません",
+          "plain": "やめない"
+        },
+        "question": {
+          "polite": "やめますか",
+          "plain": "やめる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "やめました",
+          "plain": "やめた"
+        },
+        "negative": {
+          "polite": "やめませんでした",
+          "plain": "やめなかった"
+        },
+        "question": {
+          "polite": "やめましたか",
+          "plain": "やめた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "やめられます",
+          "plain": "やめられる"
+        },
+        "negative": {
+          "polite": "やめられません",
+          "plain": "やめられない"
+        },
+        "question": {
+          "polite": "やめられますか",
+          "plain": "やめられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "やめられました",
+          "plain": "やめられた"
+        },
+        "negative": {
+          "polite": "やめられませんでした",
+          "plain": "やめられなかった"
+        },
+        "question": {
+          "polite": "やめられましたか",
+          "plain": "やめられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "会社を辞めます。",
+        "reading": "かいしゃをやめます。",
+        "vietnamese": "Nghỉ việc ở công ty."
+      },
+      {
+        "japanese": "仕事を辞めなかった。",
+        "reading": "しごとをやめなかった。",
+        "vietnamese": "Đã bỏ hút thuốc."
+      }
+    ],
+    "ba_form": "辞めれば",
+    "ba_example": "会社を辞めれば、時間がありません。",
+    "ta_form": "辞めた",
+    "ta_example": "先月、仕事を辞めた。"
+  },
+  {
+    "id": 91,
+    "kanji": "忘れる",
+    "reading": "わすれる",
+    "meaning": "quên",
+    "group": 2,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "わすれます",
+          "plain": "わすれる"
+        },
+        "negative": {
+          "polite": "わすれません",
+          "plain": "わすれない"
+        },
+        "question": {
+          "polite": "わすれますか",
+          "plain": "わすれる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "わすれました",
+          "plain": "わすれた"
+        },
+        "negative": {
+          "polite": "わすれませんでした",
+          "plain": "わすれなかった"
+        },
+        "question": {
+          "polite": "わすれましたか",
+          "plain": "わすれた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "わすれられます",
+          "plain": "わすれられる"
+        },
+        "negative": {
+          "polite": "わすれられません",
+          "plain": "わすれられない"
+        },
+        "question": {
+          "polite": "わすれられますか",
+          "plain": "わすれられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "わすれられました",
+          "plain": "わすれられた"
+        },
+        "negative": {
+          "polite": "わすれられませんでした",
+          "plain": "わすれられなかった"
+        },
+        "question": {
+          "polite": "わすれられましたか",
+          "plain": "わすれられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "宿題を忘れます。",
+        "reading": "しゅくだいをわすれます。",
+        "vietnamese": "Quên mang ô."
+      },
+      {
+        "japanese": "彼の名前を忘れた。",
+        "reading": "かれのなまえをわすれた。",
+        "vietnamese": "Đã quên mật khẩu."
+      }
+    ],
+    "ba_form": "忘れれば",
+    "ba_example": "名前を忘れれば、もう一度聞きます。",
+    "ta_form": "忘れた",
+    "ta_example": "宿題を忘れた。"
+  },
+  {
+    "id": 92,
+    "kanji": "来る",
+    "reading": "くる",
+    "meaning": "đến",
+    "group": 3,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "きます",
+          "plain": "くる"
+        },
+        "negative": {
+          "polite": "きません",
+          "plain": "こない"
+        },
+        "question": {
+          "polite": "きますか",
+          "plain": "くる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "きました",
+          "plain": "きた"
+        },
+        "negative": {
+          "polite": "きませんでした",
+          "plain": "こなかった"
+        },
+        "question": {
+          "polite": "きましたか",
+          "plain": "きた？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "こられます",
+          "plain": "こられる"
+        },
+        "negative": {
+          "polite": "こられません",
+          "plain": "こられない"
+        },
+        "question": {
+          "polite": "こられますか",
+          "plain": "こられる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "こられました",
+          "plain": "こられた"
+        },
+        "negative": {
+          "polite": "こられませんでした",
+          "plain": "こられなかった"
+        },
+        "question": {
+          "polite": "こられましたか",
+          "plain": "こられた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "明日、友達が来ます。",
+        "reading": "あした、ともだちがきます。",
+        "vietnamese": "Bạn đến."
+      },
+      {
+        "japanese": "昨日は来なかった。",
+        "reading": "きのうはこなかった。",
+        "vietnamese": "Hôm qua đã không đến."
+      },
+      {
+        "japanese": "明日は来られる？",
+        "reading": "あしたはこられる？",
+        "vietnamese": ""
+      }
+    ],
+    "ba_form": "来れば",
+    "ba_example": "彼が来れば、出発します。",
+    "ta_form": "来た",
+    "ta_example": "友達がうちへ来た。"
+  },
+  {
+    "id": 93,
+    "kanji": "する",
+    "reading": "する",
+    "meaning": "làm",
+    "group": 3,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "します",
+          "plain": "する"
+        },
+        "negative": {
+          "polite": "しません",
+          "plain": "しない"
+        },
+        "question": {
+          "polite": "しますか",
+          "plain": "する？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "しました",
+          "plain": "した"
+        },
+        "negative": {
+          "polite": "しませんでした",
+          "plain": "しなかった"
+        },
+        "question": {
+          "polite": "しましたか",
+          "plain": "した？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "できます",
+          "plain": "できる"
+        },
+        "negative": {
+          "polite": "できません",
+          "plain": "できない"
+        },
+        "question": {
+          "polite": "できますか",
+          "plain": "できる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "できました",
+          "plain": "できた"
+        },
+        "negative": {
+          "polite": "できませんでした",
+          "plain": "できなかった"
+        },
+        "question": {
+          "polite": "できましたか",
+          "plain": "できた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "週末はテニスをします。",
+        "reading": "しゅうまつはてにすをします。",
+        "vietnamese": "Làm bài tập."
+      },
+      {
+        "japanese": "昨日は何もしなかった。",
+        "reading": "きのうはなにもしなかった。",
+        "vietnamese": "Đã không làm gì."
+      }
+    ],
+    "ba_form": "すれば",
+    "ba_example": "スポーツをすれば、元気になります。",
+    "ta_form": "した",
+    "ta_example": "日曜日にテニスをした。"
+  },
+  {
+    "id": 94,
+    "kanji": "散歩する",
+    "reading": "さんぽする",
+    "meaning": "đi dạo",
+    "group": 3,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "さんぽします",
+          "plain": "さんぽする"
+        },
+        "negative": {
+          "polite": "さんぽしません",
+          "plain": "さんぽしない"
+        },
+        "question": {
+          "polite": "さんぽしますか",
+          "plain": "さんぽする？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "さんぽしました",
+          "plain": "さんぽした"
+        },
+        "negative": {
+          "polite": "さんぽしませんでした",
+          "plain": "さんぽしなかった"
+        },
+        "question": {
+          "polite": "さんぽしましたか",
+          "plain": "さんぽした？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "さんぽできます",
+          "plain": "さんぽできる"
+        },
+        "negative": {
+          "polite": "さんぽできません",
+          "plain": "さんぽできない"
+        },
+        "question": {
+          "polite": "さんぽできますか",
+          "plain": "さんぽできる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "さんぽできました",
+          "plain": "さんぽできた"
+        },
+        "negative": {
+          "polite": "さんぽできませんでした",
+          "plain": "さんぽできなかった"
+        },
+        "question": {
+          "polite": "さんぽできましたか",
+          "plain": "さんぽできた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "公園を散歩します。",
+        "reading": "こうえんをさんぽします。",
+        "vietnamese": "Đi dạo ở công viên."
+      },
+      {
+        "japanese": "雨だから散歩できない。",
+        "reading": "あめだからさんぽできない。",
+        "vietnamese": "Hôm qua đã không đi dạo."
+      }
+    ],
+    "ba_form": "散歩すれば",
+    "ba_example": "朝、散歩すれば、気持ちいいです。",
+    "ta_form": "散歩した",
+    "ta_example": "犬と一緒に公園を散歩した。"
+  },
+  {
+    "id": 95,
+    "kanji": "勉強する",
+    "reading": "べんきょうする",
+    "meaning": "học",
+    "group": 3,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "べんきょうします",
+          "plain": "べんきょうする"
+        },
+        "negative": {
+          "polite": "べんきょうしません",
+          "plain": "べんきょうしない"
+        },
+        "question": {
+          "polite": "べんきょうしますか",
+          "plain": "べんきょうする？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "べんきょうしました",
+          "plain": "べんきょうした"
+        },
+        "negative": {
+          "polite": "べんきょうしませんでした",
+          "plain": "べんきょうしなかった"
+        },
+        "question": {
+          "polite": "べんきょうしましたか",
+          "plain": "べんきょうした？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "べんきょうできます",
+          "plain": "べんきょうできる"
+        },
+        "negative": {
+          "polite": "べんきょうできません",
+          "plain": "べんきょうできない"
+        },
+        "question": {
+          "polite": "べんきょうできますか",
+          "plain": "べんきょうできる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "べんきょうできました",
+          "plain": "べんきょうできた"
+        },
+        "negative": {
+          "polite": "べんきょうできませんでした",
+          "plain": "べんきょうできなかった"
+        },
+        "question": {
+          "polite": "べんきょうできましたか",
+          "plain": "べんきょうできた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "日本語を勉強します。",
+        "reading": "にほんごをべんきょうします。",
+        "vietnamese": "Học tiếng Nhật."
+      },
+      {
+        "japanese": "昨日は勉強しなかった。",
+        "reading": "きのうはべんきょうしなかった。",
+        "vietnamese": "Đã không học."
+      }
+    ],
+    "ba_form": "勉強すれば",
+    "ba_example": "毎日勉強すれば、上手になります。",
+    "ta_form": "勉強した",
+    "ta_example": "図書館で日本語を勉強した。"
+  },
+  {
+    "id": 96,
+    "kanji": "結婚する",
+    "reading": "けっこんする",
+    "meaning": "kết hôn",
+    "group": 3,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "けっこんします",
+          "plain": "けっこんする"
+        },
+        "negative": {
+          "polite": "けっこんしません",
+          "plain": "けっこんしない"
+        },
+        "question": {
+          "polite": "けっこんしますか",
+          "plain": "けっこんする？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "けっこんしました",
+          "plain": "けっこんした"
+        },
+        "negative": {
+          "polite": "けっこんしませんでした",
+          "plain": "けっこんしなかった"
+        },
+        "question": {
+          "polite": "けっこんしましたか",
+          "plain": "けっこんした？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "けっこんできます",
+          "plain": "けっこんできる"
+        },
+        "negative": {
+          "polite": "けっこんできません",
+          "plain": "けっこんできない"
+        },
+        "question": {
+          "polite": "けっこんできますか",
+          "plain": "けっこんできる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "けっこんできました",
+          "plain": "けっこんできた"
+        },
+        "negative": {
+          "polite": "けっこんできませんでした",
+          "plain": "けっこんできなかった"
+        },
+        "question": {
+          "polite": "けっこんできましたか",
+          "plain": "けっこんできた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "来年結婚します。",
+        "reading": "らいねんけっこんします。",
+        "vietnamese": "Kết hôn năm ngoái."
+      },
+      {
+        "japanese": "まだ結婚できない。",
+        "reading": "まだけっこんできない。",
+        "vietnamese": "Chưa kết hôn."
+      }
+    ],
+    "ba_form": "結婚すれば",
+    "ba_example": "結婚すれば、一緒に住みます。",
+    "ta_form": "結婚した",
+    "ta_example": "姉が結婚した。"
+  },
+  {
+    "id": 97,
+    "kanji": "買い物する",
+    "reading": "かいものする",
+    "meaning": "mua sắm",
+    "group": 3,
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": "かいものします",
+          "plain": "かいものする"
+        },
+        "negative": {
+          "polite": "かいものしません",
+          "plain": "かいものしない"
+        },
+        "question": {
+          "polite": "かいものしますか",
+          "plain": "かいものする？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かいものしました",
+          "plain": "かいものした"
+        },
+        "negative": {
+          "polite": "かいものしませんでした",
+          "plain": "かいものしなかった"
+        },
+        "question": {
+          "polite": "かいものしましたか",
+          "plain": "かいものした？"
+        }
+      }
+    },
+    "potential": {
+      "present": {
+        "affirmative": {
+          "polite": "かいものできます",
+          "plain": "かいものできる"
+        },
+        "negative": {
+          "polite": "かいものできません",
+          "plain": "かいものできない"
+        },
+        "question": {
+          "polite": "かいものできますか",
+          "plain": "かいものできる？"
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": "かいものできました",
+          "plain": "かいものできた"
+        },
+        "negative": {
+          "polite": "かいものできませんでした",
+          "plain": "かいものできなかった"
+        },
+        "question": {
+          "polite": "かいものできましたか",
+          "plain": "かいものできた？"
+        }
+      }
+    },
+    "examples": [
+      {
+        "japanese": "スーパーで買い物します。",
+        "reading": "すーぱーでかいものします。",
+        "vietnamese": "Mua sắm ở siêu thị."
+      },
+      {
+        "japanese": "買い物できなかった。",
+        "reading": "かいものできなかった。",
+        "vietnamese": "Đã không mua sắm được."
+      }
+    ],
+    "ba_form": "買い物すれば",
+    "ba_example": "デパートで買い物すれば、高いです。",
+    "ta_form": "買い物した",
+    "ta_example": "スーパーで買い物した。"
+  }
+]
